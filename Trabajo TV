@@ -59,12 +59,9 @@ CARTOON NETWORK
 
 #EXTINF:-1 tvg-id="TOONLSE" tvg-name="INF: CARTOON NETWORK" tvg-logo="http://iptvtree.es:80/images/96833b8b076dd8ac7b6237ab93b32702.jpg" group-title="", CARTOON NETWORK
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/263.ts
-#EXTINF:-1 tvg-id="TOONLSE" tvg-name="INF: Cartoon Network" tvg-logo="http://iptvtree.es:80/images/96833b8b076dd8ac7b6237ab93b32702.jpg" group-title="",Cartoon Network
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/264.ts
 #EXTINF:-1 tvg-id="" tvg-name="SD DMX:Cartoon Network Mexico" tvg-logo="" group-title="",Cartoon Network Mexico
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/918.ts
-#EXTINF:-1 tvg-id="TOONLSE" tvg-name="LA: Cartoon Network HD" tvg-logo="http://restream.videoflixtv.org:8000/images/4fcaf86234fcf7a9a187e40c57bb280e.png" group-title="",Cartoon Network HD
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33144.ts
+
 
 HBO
 
@@ -72,7 +69,7 @@ HBO
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/155.ts
 #EXTINF:-1 tvg-id="GHB2DLY" tvg-name="CIN: HBO 2" tvg-logo="http://iptvtree.es:80/images/rMWGXG7DJ2qhMUilHJYAdhwP02xM1D5CWdoXuW57Z8-ljyNFSNgJglNXaPLGVSbSaOkPtgUaz2MoflHX1L3X0qbtwtBzboeLwMvm-jGjqVg.png" group-title="",HBO 2
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/156.ts
-#EXTINF:-1 tvg-id="HBODA" tvg-name="CIN: HBO plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="",HBO plus
+#EXTINF:-1 tvg-id="HBODA" tvg-name="CIN: HBO plus" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="",HBO +
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/157.ts
 #EXTINF:-1 tvg-id="HBOSIG" tvg-name="CIN: HBO signature" tvg-logo="http://iptvtree.es:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjPG_JptM0ETHhNZCL7gfezzImdlVnM_vMQAZVd5RBbX-OtgtAdwMRreITGdZnuzGJZ5HTnfBSwacpTXKNbUaJ2A.png" group-title="",HBO signature
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/158.ts
@@ -80,38 +77,28 @@ http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/158.ts
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/159.ts
 #EXTINF:-1 tvg-id="POPAM" tvg-name="CIN: HBO pop" tvg-logo="http://iptvtree.es:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjs4uvde2X6F0BV0VJ_cFRl5g1wyShWGjWD4Opq8y8dLMl4pEUWoV66S81RvcIMprd.png" group-title="",HBO pop
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/160.ts
-#EXTINF:-1 tvg-id="MUNLEH" tvg-name="CIN: HBO mundi" tvg-logo="http://iptvtree.es:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjauLZl80I1rWOIeFZSq5fciaPjrzIIcn2hTBf56tvq935UGij1tvO5syWcoqayzwn5Tq3IE_60gOTmvRCTkgMpA.png" group-title="", HBO mundi
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/161.ts
 #EXTINF:-1 tvg-id="HBOXLAM" tvg-name="CIN: HBO xtreme" tvg-logo="http://iptvtree.es:80/images/18ZPwTcXcrRgadGVYgzEYzjMxBYbvi98JRszJ8jXRlLyR-KNaMqHHkVh7WJMiPYIm8wJapwYUI44-A8oIzJdSDnodWmHuGMt_OKOvVorNCI.png" group-title="",HBO xtreme
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/162.ts
 
 TNT
 
-#EXTINF:-1 tvg-id="TNTLVHD" tvg-name="CIN: TNT" tvg-logo="http://iptvtree.es:80/images/5zuDOHdJJXmV0wvzIcMkHj3SX96c2WqI9i98-H77I7dIRB33Jds41j-LkJLLT4zwlQwA8dMYBfbRLxkvCaYLyA.png" group-title="|LAT| Cine Latino",CIN: TNT
+#EXTINF:-1 tvg-id="TNTLVHD" tvg-name="CIN: TNT" tvg-logo="http://iptvtree.es:80/images/5zuDOHdJJXmV0wvzIcMkHj3SX96c2WqI9i98-H77I7dIRB33Jds41j-LkJLLT4zwlQwA8dMYBfbRLxkvCaYLyA.png" group-title="",CIN: TNT
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/140.ts
-#EXTINF:-1 tvg-id="TNTSERH" tvg-name="CIN: TNT series" tvg-logo="http://iptvtree.es:80/images/5zuDOHdJJXmV0wvzIcMkHh4Scnj00Weg4Xd2MySEaHD-RQ3dPYserO9nSBify99J3O6ezoHS-8UwGoBq_Rhn_w.png" group-title="|LAT| Cine Latino",CIN: TNT series
+#EXTINF:-1 tvg-id="TNTSERH" tvg-name="CIN: TNT series" tvg-logo="http://iptvtree.es:80/images/5zuDOHdJJXmV0wvzIcMkHh4Scnj00Weg4Xd2MySEaHD-RQ3dPYserO9nSBify99J3O6ezoHS-8UwGoBq_Rhn_w.png" group-title="",CIN: TNT SERIES
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/141.ts
-#EXTINF:-1 tvg-id="TNTSPOA" tvg-name="DEP: TNT sports" tvg-logo="http://iptvtree.es:80/images/fZ1rSxhMSuIklaZitXBIdLDFwGEopNalsDYiQHdv40K-Gzkggzzrh-b6ZUwxAL8iWgq78Z4JSNYPvvyZ4lTzdokvwca8RV1mZVRADMNdM7c.png" group-title="",TNT sports
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/806.ts
-#EXTINF:-1 tvg-id="TNTSPOA" tvg-name="DEP: TNT Sports" tvg-logo="http://iptvtree.es:80/images/fZ1rSxhMSuIklaZitXBIdLDFwGEopNalsDYiQHdv40K-Gzkggzzrh-b6ZUwxAL8iWgq78Z4JSNYPvvyZ4lTzdokvwca8RV1mZVRADMNdM7c.png" group-title="",TNT Sports
+#EXTINF:-1 tvg-id="" tvg-name="SD DMX:TNT Series México" tvg-logo="" group-title="",TNT SERIES
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/993.ts
+#EXTINF:-1 tvg-id="TNTSPOA" tvg-name="DEP: TNT Sports" tvg-logo="http://iptvtree.es:80/images/fZ1rSxhMSuIklaZitXBIdLDFwGEopNalsDYiQHdv40K-Gzkggzzrh-b6ZUwxAL8iWgq78Z4JSNYPvvyZ4lTzdokvwca8RV1mZVRADMNdM7c.png" group-title="",TNT SPORTSHD
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/314.ts
 #EXTINF:-1 tvg-id="" tvg-name="DEP HD: TNT SPORTS ESTADIO" tvg-logo="https://play-lh.googleusercontent.com/xRdIZFnUMOCjKNp1t9SUulRSzWkhZrFS8ChaXM4u1_ei2OOTHV3z-1uGt2KCywwPWpQ" group-title="",TNT SPORTSHD
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/312779.ts
-#EXTINF:-1 tvg-id="" tvg-name="SD DMX:TNT América Latina" tvg-logo="" group-title="",TNT SERIES
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/992.ts
-#EXTINF:-1 tvg-id="" tvg-name="SD DMX:TNT Series México" tvg-logo="" group-title="",TNT Series 
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/993.ts
-#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TNT Sports HD" tvg-logo="http://iptvtree.es:80/images/fZ1rSxhMSuIklaZitXBIdLDFwGEopNalsDYiQHdv40K-Gzkggzzrh-b6ZUwxAL8iWgq78Z4JSNYPvvyZ4lTzdokvwca8RV1mZVRADMNdM7c.png" group-title="",TNT Sports 
+#EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TNT Sports HD" tvg-logo="http://iptvtree.es:80/images/fZ1rSxhMSuIklaZitXBIdLDFwGEopNalsDYiQHdv40K-Gzkggzzrh-b6ZUwxAL8iWgq78Z4JSNYPvvyZ4lTzdokvwca8RV1mZVRADMNdM7c.png" group-title="",TNT SPORTS 
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/71056.ts
-#EXTINF:-1 tvg-id="" tvg-name="SP: CL: TNT Sports 2 HD" tvg-logo="http://iptvtree.es:80/images/fZ1rSxhMSuIklaZitXBIdLDFwGEopNalsDYiQHdv40K-Gzkggzzrh-b6ZUwxAL8iWgq78Z4JSNYPvvyZ4lTzdokvwca8RV1mZVRADMNdM7c.png" group-title="",TNT Sports 2 
+#EXTINF:-1 tvg-id="" tvg-name="SP: CL: TNT Sports 2 HD" tvg-logo="http://iptvtree.es:80/images/fZ1rSxhMSuIklaZitXBIdLDFwGEopNalsDYiQHdv40K-Gzkggzzrh-b6ZUwxAL8iWgq78Z4JSNYPvvyZ4lTzdokvwca8RV1mZVRADMNdM7c.png" group-title="",TNT SPORTS2
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/71173.ts
-#EXTINF:-1 tvg-id="TNTLVHD" tvg-name="ES: TNT HD" tvg-logo="http://iptvtree.es:80/images/b92da670a577bcd45b2b759930523c41.png" group-title="",TNT
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79766.ts
 
 
 TYC
-#EXTINF:-1 tvg-id="TYC" tvg-name="MX : TYC sports" tvg-logo="http://iptvtree.es:80/images/wa0mvnaHp95dlQYAfUtGaqH2Jy-8Z8aarblBM6x28zm5M1jpaPu6sRLssaJbw5UDkdYohHBqoA6BZHekF1YN37myLuciTppAIaPYq8HcRrs.png" group-title="",TYC sports
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/1993.ts
 #EXTINF:-1 tvg-id="" tvg-name="SP: ARG: TyC Sports Internacional SD" tvg-logo="http://iptvtree.es:80/images/wa0mvnaHp95dlQYAfUtGajV4PTt3Z-RBcPSiC-6sVONXcy7EwiMfADkVUakyZ79jefETHEFl00NjGFf7LWCRf55XUeGdjXPxhFawG19rKew.png" group-title="",TyC Sports 
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/71060.ts
 
@@ -121,19 +108,15 @@ FOX
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/282.ts
 #EXTINF:-1 tvg-id="" tvg-name="DEP: Fox Sports 1 sur" tvg-logo="http://iptvtree.es:80/images/5zuDOHdJJXmV0wvzIcMkHmd2lLi3XgFF9SupVZMjAqUipzda4dvZddGMr_ZRUVcVWymvrss-siBDeTwbEFrQ0w.png" group-title="",Fox Sports 1 sur
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/283.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEP: Fox Sports 1 sur" tvg-logo="http://iptvtree.es:80/images/5zuDOHdJJXmV0wvzIcMkHmd2lLi3XgFF9SupVZMjAqUipzda4dvZddGMr_ZRUVcVWymvrss-siBDeTwbEFrQ0w.png" group-title="",Fox Sports 2 sur
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/284.ts
 #EXTINF:-1 tvg-id="" tvg-name="DEP: Fox Sports 1 sur" tvg-logo="http://iptvtree.es:80/images/5zuDOHdJJXmV0wvzIcMkHmd2lLi3XgFF9SupVZMjAqUipzda4dvZddGMr_ZRUVcVWymvrss-siBDeTwbEFrQ0w.png" group-title="",Fox Sports 1 sur
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/285.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEP: Fox Sports 2 sur" tvg-logo="http://iptvtree.es:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjvtalwwEzd2w0JX3F4p5b_k4yTZf0qFg-jZcw8Z2mRSs2KAf8y8xdGFlF8Wu_T3nXHXCpngwQpE84o_YeanPNRT2-jRtZNeaaftSBlSmdYyc.png" group-title="",Fox Sports 2 sur
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/286.ts
 #EXTINF:-1 tvg-id="" tvg-name="DEP: Fox Sports 2 sur" tvg-logo="http://iptvtree.es:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjvtalwwEzd2w0JX3F4p5b_k4yTZf0qFg-jZcw8Z2mRSs2KAf8y8xdGFlF8Wu_T3nXHXCpngwQpE84o_YeanPNRT2-jRtZNeaaftSBlSmdYyc.png" group-title="",Fox Sports 2 sur
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/287.ts
 #EXTINF:-1 tvg-id="" tvg-name="DEP: Fox Sports 2 sur" tvg-logo="http://iptvtree.es:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjvtalwwEzd2w0JX3F4p5b_k4yTZf0qFg-jZcw8Z2mRSs2KAf8y8xdGFlF8Wu_T3nXHXCpngwQpE84o_YeanPNRT2-jRtZNeaaftSBlSmdYyc.png" group-title="",Fox Sports 2 sur
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/288.ts
 #EXTINF:-1 tvg-id="" tvg-name="DEP: Fox Sports 3 sur" tvg-logo="http://iptvtree.es:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjC0nHhgbAG094hqh2HDgMjp65zDCHyyrqZvKOpNBSPArSMhRskhF_D1_yuQdc70eBiDSLvS6tjQ-JLzseFVXdiRxONBUKS_-xI5yruYI7CUI.png" group-title="",Fox Sports 3 sur
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/289.ts
-#EXTINF:-1 tvg-id="FSALPM" tvg-name="DEP: Fox Sports Premiun" tvg-logo="http://iptvtree.es:80/images/fZ1rSxhMSuIklaZitXBIdLDFwGEopNalsDYiQHdv40K_zRidzpg2XlJeYUPno_Pi-QpE1erDfFc939lZzTzM5J0zbQ7tWlA731379fj5wBM.png" group-title="",Fox Sports Premiun
+#EXTINF:-1 tvg-id="FSALPM" tvg-name="DEP: Fox Sports Premiun" tvg-logo="http://iptvtree.es:80/images/fZ1rSxhMSuIklaZitXBIdLDFwGEopNalsDYiQHdv40K_zRidzpg2XlJeYUPno_Pi-QpE1erDfFc939lZzTzM5J0zbQ7tWlA731379fj5wBM.png" group-title="",FOX SPORTS PREMIUM 
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/290.ts
 #EXTINF:-1 tvg-id="" tvg-name="DEP: Fox Sports 1 mx" tvg-logo="http://iptvtree.es:80/images/5zuDOHdJJXmV0wvzIcMkHmd2lLi3XgFF9SupVZMjAqUipzda4dvZddGMr_ZRUVcVWymvrss-siBDeTwbEFrQ0w.png" group-title="",Fox Sports 1 mx
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/291.ts
@@ -142,58 +125,38 @@ http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79774.ts
 
 
 ESPN
-#EXTINF:-1 tvg-id="" tvg-name="DEP: Espn 1" tvg-logo="http://iptvtree.es:80/images/KeoQQENyQNzuYokg-zs6u91uE9XtEp0VlD0opLO8cre0lsD-Dbwp57kIfkGPPT8AgBhMKyDGrUI4eOjkG1ELgA.png" group-title="",Espn 1
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/292.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEP: Espn Premium" tvg-logo="http://assets.stickpng.com/images/5847f1b0cef1014c0b5e485d.png" group-title="",Espn Premium
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/293.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEP: Espn 1 col" tvg-logo="http://iptvtree.es:80/images/KeoQQENyQNzuYokg-zs6u91uE9XtEp0VlD0opLO8cre0lsD-Dbwp57kIfkGPPT8AgBhMKyDGrUI4eOjkG1ELgA.png" group-title="",Espn 1 col
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/294.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEP: Espn 2 chi" tvg-logo="http://iptvtree.es:80/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuZFg4XgvTIrgkg_hugRnat1lTZdS-RTy5B3pXUwzIlc9m0mWGTYwdIQMxYm_DCx_-M.png" group-title="",Espn 2 chi
+#EXTINF:-1 tvg-id="" tvg-name="DEP: Espn 2 chi" tvg-logo="http://iptvtree.es:80/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuZFg4XgvTIrgkg_hugRnat1lTZdS-RTy5B3pXUwzIlc9m0mWGTYwdIQMxYm_DCx_-M.png" group-title="",ESPN  chile
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/295.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEP: Espn 2 col" tvg-logo="http://iptvtree.es:80/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuZFg4XgvTIrgkg_hugRnat1lTZdS-RTy5B3pXUwzIlc9m0mWGTYwdIQMxYm_DCx_-M.png" group-title="",Espn 2 col
+#EXTINF:-1 tvg-id="" tvg-name="DEP: Espn 2 col" tvg-logo="http://iptvtree.es:80/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuZFg4XgvTIrgkg_hugRnat1lTZdS-RTy5B3pXUwzIlc9m0mWGTYwdIQMxYm_DCx_-M.png" group-title="",ESPN2 colombia
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/296.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEP: Espn 2 col" tvg-logo="http://iptvtree.es:80/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuZFg4XgvTIrgkg_hugRnat1lTZdS-RTy5B3pXUwzIlc9m0mWGTYwdIQMxYm_DCx_-M.png" group-title="",Espn 2 col
+#EXTINF:-1 tvg-id="" tvg-name="DEP: Espn 2 col" tvg-logo="http://iptvtree.es:80/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuZFg4XgvTIrgkg_hugRnat1lTZdS-RTy5B3pXUwzIlc9m0mWGTYwdIQMxYm_DCx_-M.png" group-title="",ESPN2 col
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/297.ts
 #EXTINF:-1 tvg-id="" tvg-name="DEP: Espn 2 sur" tvg-logo="http://iptvtree.es:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjMlKGaMtnPVW5GCpzt6d-KfLmtTNtgkkwxpblQtJRLkRz7uzFO_RtgyusNy9F1NQ4.png" group-title="",Espn 2 sur
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/298.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEP: Espn 3 arg" tvg-logo="http://iptvtree.es:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWB20f9JBxroh144crobqKb1YG0_vXb_b5EsGtY0JBmLXqspgSUiJ_pT4K1M_cTcg4.png" group-title="",Espn 3 arg
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/299.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEP: Espn 3 arg" tvg-logo="http://iptvtree.es:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWB20f9JBxroh144crobqKb1YG0_vXb_b5EsGtY0JBmLXqspgSUiJ_pT4K1M_cTcg4.png" group-title="",Espn 3 arg
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/300.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEP: Espn 1 MX" tvg-logo="http://iptvtree.es:80/images/KeoQQENyQNzuYokg-zs6u91uE9XtEp0VlD0opLO8cre0lsD-Dbwp57kIfkGPPT8AgBhMKyDGrUI4eOjkG1ELgA.png" group-title="",Espn 1 MX
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/301.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEP: Espn 2 MX" tvg-logo="http://iptvtree.es:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjMlKGaMtnPVW5GCpzt6d-KfLmtTNtgkkwxpblQtJRLkRz7uzFO_RtgyusNy9F1NQ4.png" group-title="",Espn 2 MX
+#EXTINF:-1 tvg-id="" tvg-name="DEP: Espn 2 MX" tvg-logo="http://iptvtree.es:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWXm360tfVL4n72DiGcqnmJjMlKGaMtnPVW5GCpzt6d-KfLmtTNtgkkwxpblQtJRLkRz7uzFO_RtgyusNy9F1NQ4.png" group-title="",ESPN2 MX
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/302.ts
-#EXTINF:-1 tvg-id="" tvg-name="DEP: Espn 3 MX" tvg-logo="http://iptvtree.es:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWB20f9JBxroh144crobqKb1YG0_vXb_b5EsGtY0JBmLXqspgSUiJ_pT4K1M_cTcg4.png" group-title="",Espn 3 MX
+#EXTINF:-1 tvg-id="" tvg-name="DEP: Espn 3 MX" tvg-logo="http://iptvtree.es:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWB20f9JBxroh144crobqKb1YG0_vXb_b5EsGtY0JBmLXqspgSUiJ_pT4K1M_cTcg4.png" group-title="",ESPN3 MX
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/303.ts
-#EXTINF:-1 tvg-id="ESPNMAM" tvg-name="DEP: Espn Extra" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/ESPN_Extra_Brazil_logo.png/revision/latest?cb=20220602004659" group-title="",Espn Extra
+#EXTINF:-1 tvg-id="ESPNMAM" tvg-name="DEP: Espn Extra" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/ESPN_Extra_Brazil_logo.png/revision/latest?cb=20220602004659" group-title="",ESPN EXTRA
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/304.ts
-#EXTINF:-1 tvg-id="" tvg-name="SD DMX:Espn 1" tvg-logo="http://iptvtree.es:80/images/KeoQQENyQNzuYokg-zs6u91uE9XtEp0VlD0opLO8cre0lsD-Dbwp57kIfkGPPT8AgBhMKyDGrUI4eOjkG1ELgA.png" group-title="",DMX:Espn 1
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/935.ts
-#EXTINF:-1 tvg-id="" tvg-name="SD DMX:Espn 2" tvg-logo="http://iptvtree.es:80/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuZFg4XgvTIrgkg_hugRnat1lTZdS-RTy5B3pXUwzIlc9m0mWGTYwdIQMxYm_DCx_-M.png" group-title="",DMX:Espn 2
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/936.ts
-#EXTINF:-1 tvg-id="" tvg-name="SD DMX:ESPN 3" tvg-logo="http://iptvtree.es:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWB20f9JBxroh144crobqKb1YG0_vXb_b5EsGtY0JBmLXqspgSUiJ_pT4K1M_cTcg4.png" group-title="",DMX:ESPN 3
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/937.ts
-#EXTINF:-1 tvg-id="" tvg-name="LAT_HD | ESPN" tvg-logo="http://iptvtree.es:80/images/KeoQQENyQNzuYokg-zs6u91uE9XtEp0VlD0opLO8cre0lsD-Dbwp57kIfkGPPT8AgBhMKyDGrUI4eOjkG1ELgA.png" group-title="",LAT_HD | ESPN
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/846.ts
-#EXTINF:-1 tvg-id="" tvg-name="LAT_HD | ESPN 2" tvg-logo="http://iptvtree.es:80/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuZFg4XgvTIrgkg_hugRnat1lTZdS-RTy5B3pXUwzIlc9m0mWGTYwdIQMxYm_DCx_-M.png" group-title="",LAT_HD | ESPN 2
+#EXTINF:-1 tvg-id="" tvg-name="LAT_HD | ESPN 2" tvg-logo="http://iptvtree.es:80/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuZFg4XgvTIrgkg_hugRnat1lTZdS-RTy5B3pXUwzIlc9m0mWGTYwdIQMxYm_DCx_-M.png" group-title="",ESPN EXTRA ARG
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/847.ts
-#EXTINF:-1 tvg-id="" tvg-name="LAT_HD | ESPN 3" tvg-logo="http://iptvtree.es:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWB20f9JBxroh144crobqKb1YG0_vXb_b5EsGtY0JBmLXqspgSUiJ_pT4K1M_cTcg4.png" group-title="",LAT_HD | ESPN 3
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/848.ts
-#EXTINF:-1 tvg-id="" tvg-name="SP: MX: Espn 1" tvg-logo="http://iptvtree.es:80/images/KeoQQENyQNzuYokg-zs6u91uE9XtEp0VlD0opLO8cre0lsD-Dbwp57kIfkGPPT8AgBhMKyDGrUI4eOjkG1ELgA.png" group-title="",Espn 1
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/71118.ts
-#EXTINF:-1 tvg-id="ESPNMBR" tvg-name="SP: MX: Espn 2" tvg-logo="http://iptvtree.es:80/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuZFg4XgvTIrgkg_hugRnat1lTZdS-RTy5B3pXUwzIlc9m0mWGTYwdIQMxYm_DCx_-M.png" group-title="",Espn 2
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/71122.ts
-#EXTINF:-1 tvg-id="ESPN3D" tvg-name="SP: MX: Espn 3" tvg-logo="http://iptvtree.es:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWB20f9JBxroh144crobqKb1YG0_vXb_b5EsGtY0JBmLXqspgSUiJ_pT4K1M_cTcg4.png" group-title="", Espn 3
-http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/71125.ts
-#EXTINF:-1 tvg-id="ESPNMLA" tvg-name="SP: MX: Espn Extra" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/ESPN_Extra_Brazil_logo.png/revision/latest?cb=20220602004659" group-title="", Espn Extra
+#EXTINF:-1 tvg-id="ESPNMLA" tvg-name="SP: MX: Espn Extra" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/ESPN_Extra_Brazil_logo.png/revision/latest?cb=20220602004659" group-title="", ESPN EXTRA 
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/71127.ts
+#EXTINF:-1 tvg-id="" tvg-name="SD DMX:Espn 1" tvg-logo="http://iptvtree.es:80/images/KeoQQENyQNzuYokg-zs6u91uE9XtEp0VlD0opLO8cre0lsD-Dbwp57kIfkGPPT8AgBhMKyDGrUI4eOjkG1ELgA.png" group-title="",ESPN1 ARG
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/935.ts
+#EXTINF:-1 tvg-id="" tvg-name="SD DMX:Espn 2" tvg-logo="http://iptvtree.es:80/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuZFg4XgvTIrgkg_hugRnat1lTZdS-RTy5B3pXUwzIlc9m0mWGTYwdIQMxYm_DCx_-M.png" group-title="",ESPN2 ARG
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/936.ts
+#EXTINF:-1 tvg-id="ESPNMBR" tvg-name="SP: MX: Espn 2" tvg-logo="http://iptvtree.es:80/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuZFg4XgvTIrgkg_hugRnat1lTZdS-RTy5B3pXUwzIlc9m0mWGTYwdIQMxYm_DCx_-M.png" group-title="",ESPN1 ARG
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/71122.ts
+#EXTINF:-1 tvg-id="ESPN3D" tvg-name="SP: MX: Espn 3" tvg-logo="http://iptvtree.es:80/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWWB20f9JBxroh144crobqKb1YG0_vXb_b5EsGtY0JBmLXqspgSUiJ_pT4K1M_cTcg4.png" group-title="", ESPN1 DEPORTES ARG
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/71125.ts
 
 
 SYFY
-#EXTINF:-1 tvg-id="SYFYLAH" tvg-name="ES: SyFy FHD" tvg-logo="http://iptvtree.es:80/images/3f47d2517fe89d9c4c18c936d77d0c80.png" group-title="",ES: SyFy FHD
+#EXTINF:-1 tvg-id="SYFYLAH" tvg-name="ES: SyFy FHD" tvg-logo="http://iptvtree.es:80/images/3f47d2517fe89d9c4c18c936d77d0c80.png" group-title="",SyFy FHD
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79759.ts
-#EXTINF:-1 tvg-id="SYFYLAH" tvg-name="ES: SYFY HD" tvg-logo="http://iptvtree.es:80/images/3f47d2517fe89d9c4c18c936d77d0c80.png" group-title="",ES: SYFY HD
+#EXTINF:-1 tvg-id="SYFYLAH" tvg-name="ES: SYFY HD" tvg-logo="http://iptvtree.es:80/images/3f47d2517fe89d9c4c18c936d77d0c80.png" group-title="",SYFY HD
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/79760.ts
 
 
@@ -212,9 +175,11 @@ A&E
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/118.ts
 #EXTINF:-1 tvg-id="" tvg-name="CIN: A&E" tvg-logo="http://iptvtree.es:80/images/wa0mvnaHp95dlQYAfUtGaiqG-synI7UPw9hEWKr8oZe6lgb4kBy2XlTPcu-0oRy_KEjfRXcPmOO5RippphU-hMXBmWWEG3Zu6z4NbCoRn4M.png" group-title="",A&E
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/119.ts
-#EXTINF:-1 tvg-id="" tvg-name="LA: A&E" tvg-logo="http://restream.videoflixtv.org:8000/images/2518090d9a02563d00fa3b7754e06f57.png" group-title="|LAT| Latinos",LA: A&E
+#EXTINF:-1 tvg-id="" tvg-name="LA: A&E" tvg-logo="http://restream.videoflixtv.org:8000/images/2518090d9a02563d00fa3b7754e06f57.png" group-title="",A&E SERIES
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/33133.ts
 
-
+ID Discovery
+#EXTINF:-1 tvg-id="TNTSPOA" tvg-name="DEP: TNT sports" tvg-logo="http://iptvtree.es:80/images/fZ1rSxhMSuIklaZitXBIdLDFwGEopNalsDYiQHdv40K-Gzkggzzrh-b6ZUwxAL8iWgq78Z4JSNYPvvyZ4lTzdokvwca8RV1mZVRADMNdM7c.png" group-title="", ID Discovery
+http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/806.ts
 
 
