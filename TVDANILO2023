@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,13-Sinart
-http://160.20.164.171:8001/play/a06y/index.m3u8
 #EXTINF:-1 ,A&E HD
 http://160.20.164.171:8001/play/a091/index.m3u8
 #EXTINF:-1 ,AMC HD
@@ -279,6 +277,8 @@ http://160.20.164.171:8001/play/a07r/index.m3u8
 http://160.20.164.171:8001/play/a033/index.m3u8
 #EXTINF:-1 ,Sextreme
 http://160.20.164.171:8001/play/a028/index.m3u8
+#EXTINF:-1 ,Sinart 13
+http://160.20.164.171:8001/play/a06y/index.m3u8
 #EXTINF:-1 ,Sony
 http://160.20.164.171:8001/play/a048/index.m3u8
 #EXTINF:-1 ,SONY HD
