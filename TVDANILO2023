@@ -1,17 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="",A&E Latinoamerica
-http://clubtv.link/dic1201/key6715/lista2.php?c=902
+#EXTINF:-1 group-title="TV PREMIUM",A&E Latinoamerica
+http://clubtv.link/dic1201/key4811/lista2.php?c=902
 #EXTINF:-1 ,A&E 
 http://160.20.164.171:8001/play/a091/index.m3u8
 #EXTINF:-1 ,AMC HD
 http://160.20.164.171:8001/play/a01u/index.m3u8
-#EXTINF:-1 group-title="",AZCORAZON 
-http://clubtv.link/dic1201/key6715/lista2.php?c=823
-#EXTINF:-1 group-title="",AZMUNDO 
-http://clubtv.link/dic1201/key6715/lista2.php?c=824
-#EXTINF:-1 group-title="",Azteca Uno
-http://clubtv.link/dic1201/key6715/lista2.php?c=909
+#EXTINF:-1 group-title="TV PREMIUM",AZCORAZON HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=823
+#EXTINF:-1 group-title="TV PREMIUM",AZMUNDO HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=824
+#EXTINF:-1 group-title="TV PREMIUM",Azteca Uno
+http://clubtv.link/dic1201/key4811/lista2.php?c=909
 #EXTINF:-1 group-title="", Adrenalina Sport
 http://clubtv.link/dic1201/key6715/vix.php?c=393.frequency.stream/393&f=.m3u8
 #EXTINF:-1 ,America TV PY
@@ -34,22 +34,22 @@ http://160.20.164.171:8001/play/a093/index.m3u8
 http://160.20.164.171:8001/play/a02r/index.m3u8
 #EXTINF:-1 ,Baby TV
 http://160.20.164.171:8001/play/a08z/index.m3u8
-#EXTINF:-1 group-title="",Baby TV 
-http://clubtv.link/dic1201/key6715/lista2.php?c=910
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-LNqyThL23sA/Xzxu6qOCPqI/AAAAAAAA4qE/6jC3uKCToWUvQFFFL0pl-e9Qomh2LdxawCK8BGAsYHg/s0/2020-08-18.png", Best Cable Sports
-https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8
-#EXTINF:-1 group-title="",BITME
-http://clubtv.link/dic1201/key6715/lista2.php?c=19193
-#EXTINF:-1,BOB ESPONJA 24/7
-http://51.222.25.50:25461/Yg6eDwSTMR/bmgk4A8hbt/2946
-#EXTINF:-1 group-title="",Boomerang Mexico
-http://clubtv.link/dic1201/key6715/lista2.php?c=911
+#EXTINF:-1 group-title="TV PREMIUM",Baby TV
+http://clubtv.link/dic1201/key4811/lista2.php?c=33141
+#EXTINF:-1 group-title="PERÚ" tvg-id="692" tvg-name="Best Cable Sports" tvg-logo="https://lh3.googleusercontent.com/-LNqyThL23sA/Xzxu6qOCPqI/AAAAAAAA4qE/6jC3uKCToWUvQFFFL0pl-e9Qomh2LdxawCK8BGAsYHg/s0/2020-08-18.png", Best Cable Sports
+https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8?TecnoPlaylist
+#EXTINF:-1 group-title="TV PREMIUM",BITME
+http://clubtv.link/dic1201/key4811/lista2.php?c=19193
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" none="INFANTIL" group-title="PLUTO TV", BOB ESPONJA PLUS
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd87d882574170007fac022/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
+#EXTINF:-1 group-title="TV PREMIUM",Boomerang Mexico
+http://clubtv.link/dic1201/key4811/lista2.php?c=911
 #EXTINF:-1 ,BBC World
 http://160.20.164.171:8001/play/a00l/index.m3u8
-#EXTINF:-1 group-title="",CANAL CLARO 
-http://clubtv.link/dic1201/key6715/lista2.php?c=828
-#EXTINF:-1 group-title="",CARACOL 
-http://clubtv.link/dic1201/key6715/lista2.php?c=830
+#EXTINF:-1 group-title="TV PREMIUM",CANAL CLARO HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=828
+#EXTINF:-1 group-title="TV PREMIUM",CARACOL HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=830
 #EXTINF:-1,CABALLEROS DEL SODIACO 24/7 
 http://51.222.25.50:25461/Yg6eDwSTMR/bmgk4A8hbt/2941
 #EXTINF:-1 ,Canal Estrellas
@@ -68,8 +68,8 @@ http://160.20.164.171:8001/play/a02m/index.m3u8
 http://160.20.164.171:8001/play/a02a/index.m3u8
 #EXTINF:-1 group-title="",Cinecanal
 http://clubtv.link/dic1201/key6715/lista2.php?c=919
-#EXTINF:-1 ,CineCanal
-http://160.20.164.171:8001/play/a02c/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Cinecanal
+http://clubtv.link/dic1201/key4811/lista2.php?c=919
 #EXTINF:-1,CINE| A ESTRENAR FHD
 http://51.222.25.50:25461/Yg6eDwSTMR/bmgk4A8hbt/3699
 #EXTINF:-1 ,CINECANAL HD
