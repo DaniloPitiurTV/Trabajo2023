@@ -76,8 +76,8 @@ http://51.222.25.50:25461/Yg6eDwSTMR/bmgk4A8hbt/3699
 http://160.20.164.171:8001/play/a07b/index.m3u8
 #EXTINF:-1 ,Cinemax
 http://160.20.164.171:8001/play/a047/index.m3u8
-#EXTINF:-1 group-title="",Cinemax
-http://clubtv.link/dic1201/key6715/lista2.php?c=921
+#EXTINF:-1 group-title="TV PREMIUM",Cinemax
+http://clubtv.link/dic1201/key4811/lista2.php?c=33185
 #EXTINF:-1 ,CineMax
 http://160.20.164.171:8001/play/a02b/index.m3u8
 #EXTINF:-1 group-title="" tvg-id="34" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-F0CYLyk3J_M/XxzNduxMoVI/AAAAAAAA3Zk/3S772u4F4jER7F0bULY-hlG7Nn9bbGa7gCK8BGAsYHg/s0/2020-07-25.png", Cristiana TV vconline
@@ -92,26 +92,22 @@ http://160.20.164.171:8001/play/a03r/index.m3u8
 http://160.20.164.171:8001/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Directv Sports" tvg-logo="http://iptvtree.es:80/images/t16-j-wIEbF3qPeW4Bvca_H-VFUS55s0ihrsJLQkL5A-tsPegW0sMPMyuO_pantWncVUkzgRxZvqGiR86AId_NAkJF6akJN6p6ZuLjYcZrKtgJCGla3Bi8M_ZdgncLwHQ-bqmO-3AFH431sD8qC8Uw.jpg" group-title="",Directv Sports
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/71072.ts
-#EXTINF:-1 group-title="",DirecTV Sports 2 
-http://clubtv.link/dic1201/key6715/lista2.php?c=33191
-#EXTINF:-1 group-title="",DirecTV Sports+
-http://clubtv.link/dic1201/key6715/lista2.php?c=33192
-#EXTINF:-1 ,DISC THEATHER HD
-http://160.20.164.171:8001/play/a01f/index.m3u8
-#EXTINF:-1 group-title="",Discovery Channel
-http://clubtv.link/dic1201/key6715/lista2.php?c=927
-#EXTINF:-1 group-title="",Discovery Home & Health
-http://clubtv.link/dic1201/key6715/lista2.php?c=928
-#EXTINF:-1 group-title="",Discovery Kids América Latina
-http://clubtv.link/dic1201/key6715/lista2.php?c=929
-#EXTINF:-1 group-title="",Disney Junior 
-http://clubtv.link/dic1201/key6715/lista2.php?c=932
-#EXTINF:-1 tvg-id="" tvg-name="DirecTV Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2020-07/8dbe5b84ef7b00e4579e1b53426e4a13.png" group-title="",DirecTV Sports
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/67721
-#EXTINF:-1 tvg-id="" tvg-name="DirecTV Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-07/17cb87788ff5c4d544aa70c39e6d707a.png" group-title="",DirecTV Sports 2
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/31645
+#EXTINF:-1 group-title="TV PREMIUM",DirecTV Sports 2 HD
+http://clubtv.link/dic1201/key4811/lista2.php?c=33191
+#EXTINF:-1 group-title="TV PREMIUM",DirecTV Sports+
+http://clubtv.link/dic1201/key4811/lista2.php?c=33192
 #EXTINF:-1 tvg-id="" tvg-name="Directv Sports +" tvg-logo="http://iptvtree.es:80/images/lO4I6ENDRiY1iG64O8qqg57mdqJS_FDRHCsZG_nx4RxaHLAMsNmUuoaix-u7a0Wd6fvb7SPUQ9dMLAzpVCxQRirl1rpqH06E1QexCZwjarPQPGJ-jFmz4yWYHt-OfoTxnT1BKRzf5-TmnStgI3gfp_fdSzFzdoe54fPhcTFuGls.png" group-title="",Directv Sports + 
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/71043.ts
+#EXTINF:-1 ,DISC THEATHER HD
+http://160.20.164.171:8001/play/a01f/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Discovery Channel
+http://clubtv.link/dic1201/key4811/lista2.php?c=927
+#EXTINF:-1 group-title="TV PREMIUM",Discovery Home & Health
+http://clubtv.link/dic1201/key4811/lista2.php?c=928
+#EXTINF:-1 group-title="TV PREMIUM",Discovery Kids América Latina
+http://clubtv.link/dic1201/key4811/lista2.php?c=929
+#EXTINF:-1 group-title="",Disney Junior 
+http://clubtv.link/dic1201/key6715/lista2.php?c=932
 #EXTINF:-1 ,Discovery Channel HD
 http://160.20.164.171:8001/play/a015/index.m3u8
 #EXTINF:-1 ,Discovery Home & Health
@@ -134,10 +130,6 @@ http://160.20.164.171:8001/play/a024/index.m3u8
 http://160.20.164.171:8001/play/a05w/index.m3u8
 #EXTINF:-1 ,Disney JR
 http://160.20.164.171:8001/play/a006/index.m3u8
-#EXTINF:-1 group-title="",Espn 1
-http://clubtv.link/dic1201/key6715/lista2.php?c=935
-#EXTINF:-1 group-title="",Espn 2
-http://clubtv.link/dic1201/key6715/lista2.php?c=936
 #EXTINF:-1 group-title="" tvg-id="100" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-gwVSG0Gv_VY/XzxqczgyXhI/AAAAAAAA4pA/P26xKeDaPZcrzl5WvvYymInXCZJRU3L3wCK8BGAsYHg/s0/2020-08-18.png", Educa TV
 https://cloud7.streamingcnt.net/cnt/educa/playlist.m3u8?TecnoPlaylist
 #EXTINF:-1 ,E Entertainment
@@ -162,6 +154,10 @@ http://160.20.164.171:8001/play/a03z/index.m3u8
 http://51.222.25.50:25461/Yg6eDwSTMR/bmgk4A8hbt/3220
 #EXTINF:-1 ,Esne TV
 http://160.20.164.171:8001/play/a04k/index.m3u8
+#EXTINF:-1 group-title="TV PREMIUM",Espn 1
+http://clubtv.link/dic1201/key4811/lista2.php?c=935
+#EXTINF:-1 group-title="TV PREMIUM",Espn 2
+http://clubtv.link/dic1201/key4811/lista2.php?c=936
 #EXTINF:-1 ,ESPN
 http://160.20.164.171:8001/play/a09c/index.m3u8
 #EXTINF:-1 ,ESPN  +
