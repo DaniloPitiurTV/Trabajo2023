@@ -1,19 +1,9 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TV PREMIUM",A&E Latinoamerica
-http://clubtv.link/dic1201/key4811/lista2.php?c=902
 #EXTINF:-1 ,A&E 
 http://160.20.164.171:8001/play/a091/index.m3u8
 #EXTINF:-1 ,AMC HD
 http://160.20.164.171:8001/play/a01u/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",AZCORAZON HD
-http://clubtv.link/dic1201/key4811/lista2.php?c=823
-#EXTINF:-1 group-title="TV PREMIUM",AZMUNDO HD
-http://clubtv.link/dic1201/key4811/lista2.php?c=824
-#EXTINF:-1 group-title="TV PREMIUM",Azteca Uno
-http://clubtv.link/dic1201/key4811/lista2.php?c=909
-#EXTINF:-1 group-title="", Adrenalina Sport
-http://clubtv.link/dic1201/key6715/vix.php?c=393.frequency.stream/393&f=.m3u8
 #EXTINF:-1 ,America TV PY
 http://160.20.164.171:8001/play/a09h/index.m3u8
 #EXTINF:-1 ,Animal Planet HD
@@ -34,28 +24,12 @@ http://160.20.164.171:8001/play/a093/index.m3u8
 http://160.20.164.171:8001/play/a02r/index.m3u8
 #EXTINF:-1 ,Baby TV
 http://160.20.164.171:8001/play/a08z/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Baby TV
-http://clubtv.link/dic1201/key4811/lista2.php?c=33141
-#EXTINF:-1 group-title="PERÚ" tvg-id="692" tvg-name="Best Cable Sports" tvg-logo="https://lh3.googleusercontent.com/-LNqyThL23sA/Xzxu6qOCPqI/AAAAAAAA4qE/6jC3uKCToWUvQFFFL0pl-e9Qomh2LdxawCK8BGAsYHg/s0/2020-08-18.png", Best Cable Sports
-https://tv.inka.net.pe/bestcablesports/bestcablesports/index.m3u8?TecnoPlaylist
-#EXTINF:-1 group-title="TV PREMIUM",BITME
-http://clubtv.link/dic1201/key4811/lista2.php?c=19193
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1aca0b4e448e00075e7c5e/colorLogoPNG.png" none="INFANTIL" group-title="PLUTO TV", BOB ESPONJA PLUS
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fd87d882574170007fac022/master.m3u8?deviceId=channel&deviceModel=web&deviceVersion=1.0&appVersion=1.0&deviceType=rokuChannel&deviceMake=rokuChannel&deviceDNT=1&advertisingId=channel&embedPartner=rokuChannel&appName=rokuchannel&is_lat=1&bmodel=bm1&content=channel&platform=web&tags=ROKU_CONTENT_TAGS&coppa=false&content_type=livefeed&rdid=channel&content_rating=ROKU_ADS_CONTENT_RATING
-#EXTINF:-1 group-title="TV PREMIUM",Boomerang Mexico
-http://clubtv.link/dic1201/key4811/lista2.php?c=911
 #EXTINF:-1 ,BBC World
 http://160.20.164.171:8001/play/a00l/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",CANAL CLARO HD
-http://clubtv.link/dic1201/key4811/lista2.php?c=828
-#EXTINF:-1 group-title="TV PREMIUM",CARACOL HD
-http://clubtv.link/dic1201/key4811/lista2.php?c=830
-#EXTINF:-1,CABALLEROS DEL SODIACO 24/7 
-http://51.222.25.50:25461/Yg6eDwSTMR/bmgk4A8hbt/2941
 #EXTINF:-1 ,Canal Estrellas
 http://160.20.164.171:8001/play/a054/index.m3u8
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-6tQjdX3egVE/X1BUs8EdjII/AAAAAAAA5MI/MQ4mGLIIwF4MiheZiu3zQxUPWnQ1NdnlwCK8BGAsYHg/s0/2020-09-02.jpg", Canal Dios Te Ve
-https://emisoras.hn:8081/diostevetv/index.m3u8
 #EXTINF:-1 ,Cartoon Network
 http://160.20.164.171:8001/play/a003/index.m3u8
 #EXTINF:-1 ,Cartoonito
@@ -66,18 +40,10 @@ http://160.20.164.171:8001/play/a007/index.m3u8
 http://160.20.164.171:8001/play/a02m/index.m3u8
 #EXTINF:-1 ,Cine Latino
 http://160.20.164.171:8001/play/a02a/index.m3u8
-#EXTINF:-1 group-title="",Cinecanal
-http://clubtv.link/dic1201/key6715/lista2.php?c=919
-#EXTINF:-1 group-title="TV PREMIUM",Cinecanal
-http://clubtv.link/dic1201/key4811/lista2.php?c=919
-#EXTINF:-1,CINE| A ESTRENAR FHD
-http://51.222.25.50:25461/Yg6eDwSTMR/bmgk4A8hbt/3699
 #EXTINF:-1 ,CINECANAL HD
 http://160.20.164.171:8001/play/a07b/index.m3u8
 #EXTINF:-1 ,Cinemax
 http://160.20.164.171:8001/play/a047/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Cinemax
-http://clubtv.link/dic1201/key4811/lista2.php?c=33185
 #EXTINF:-1 ,CineMax
 http://160.20.164.171:8001/play/a02b/index.m3u8
 #EXTINF:-1 group-title="" tvg-id="34" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-F0CYLyk3J_M/XxzNduxMoVI/AAAAAAAA3Zk/3S772u4F4jER7F0bULY-hlG7Nn9bbGa7gCK8BGAsYHg/s0/2020-07-25.png", Cristiana TV vconline
@@ -92,34 +58,22 @@ http://160.20.164.171:8001/play/a03r/index.m3u8
 http://160.20.164.171:8001/play/a01y/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Directv Sports" tvg-logo="http://iptvtree.es:80/images/t16-j-wIEbF3qPeW4Bvca_H-VFUS55s0ihrsJLQkL5A-tsPegW0sMPMyuO_pantWncVUkzgRxZvqGiR86AId_NAkJF6akJN6p6ZuLjYcZrKtgJCGla3Bi8M_ZdgncLwHQ-bqmO-3AFH431sD8qC8Uw.jpg" group-title="",Directv Sports
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/71072.ts
-#EXTINF:-1 group-title="TV PREMIUM",DirecTV Sports 2 HD
-http://clubtv.link/dic1201/key4811/lista2.php?c=33191
-#EXTINF:-1 group-title="TV PREMIUM",DirecTV Sports+
-http://clubtv.link/dic1201/key4811/lista2.php?c=33192
 #EXTINF:-1 tvg-id="" tvg-name="Directv Sports +" tvg-logo="http://iptvtree.es:80/images/lO4I6ENDRiY1iG64O8qqg57mdqJS_FDRHCsZG_nx4RxaHLAMsNmUuoaix-u7a0Wd6fvb7SPUQ9dMLAzpVCxQRirl1rpqH06E1QexCZwjarPQPGJ-jFmz4yWYHt-OfoTxnT1BKRzf5-TmnStgI3gfp_fdSzFzdoe54fPhcTFuGls.png" group-title="",Directv Sports + 
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/71043.ts
 #EXTINF:-1 ,DISC THEATHER HD
 http://160.20.164.171:8001/play/a01f/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Discovery Channel
-http://clubtv.link/dic1201/key4811/lista2.php?c=927
-#EXTINF:-1 group-title="TV PREMIUM",Discovery Home & Health
-http://clubtv.link/dic1201/key4811/lista2.php?c=928
-#EXTINF:-1 group-title="TV PREMIUM",Discovery Kids América Latina
-http://clubtv.link/dic1201/key4811/lista2.php?c=929
-#EXTINF:-1 group-title="",Disney Junior 
-http://clubtv.link/dic1201/key6715/lista2.php?c=932
 #EXTINF:-1 ,Discovery Channel HD
 http://160.20.164.171:8001/play/a015/index.m3u8
 #EXTINF:-1 ,Discovery Home & Health
 http://160.20.164.171:8001/play/a027/index.m3u8
+#EXTINF:-1 ,Discovery Home & Health HD
+http://160.20.164.171:8001/play/a01g/index.m3u8
 #EXTINF:-1 ,Discovery ID HD
 http://160.20.164.171:8001/play/a019/index.m3u8
 #EXTINF:-1 ,Discovery Kids HD
 http://160.20.164.171:8001/play/a03a/index.m3u8
 #EXTINF:-1 ,Discovery Science
 http://160.20.164.171:8001/play/a038/index.m3u8
-#EXTINF:-1 ,Discovery Turbo
-http://160.20.164.171:8001/play/a04j/index.m3u8
 #EXTINF:-1 ,Discovery Turbo
 http://160.20.164.171:8001/play/a026/index.m3u8
 #EXTINF:-1 ,Discovery World HD
@@ -134,12 +88,8 @@ http://160.20.164.171:8001/play/a006/index.m3u8
 https://cloud7.streamingcnt.net/cnt/educa/playlist.m3u8?TecnoPlaylist
 #EXTINF:-1 ,E Entertainment
 http://160.20.164.171:8001/play/a04w/index.m3u8
-#EXTINF:-1,| Eurosport 2
-http://51.222.25.50:25461/Yg6eDwSTMR/bmgk4A8hbt/3481
 #EXTINF:-1 ,E! Entertairment HD
 http://160.20.164.171:8001/play/a01s/index.m3u8
-#EXTINF:-1,| Eurosport 1
-http://51.222.25.50:25461/Yg6eDwSTMR/bmgk4A8hbt/3480
 #EXTINF:-1 ,Ecuador TV
 http://160.20.164.171:8001/play/a09i/index.m3u8
 #EXTINF:-1 ,ECUAVISA
@@ -150,46 +100,28 @@ http://159.69.56.148:25461/live/evavision/2r4rfasf/38.m3u8?TecnoPlaylist
 http://160.20.164.171:8001/play/a02u/index.m3u8
 #EXTINF:-1 ,ElCanaldelFutbol HD
 http://160.20.164.171:8001/play/a03z/index.m3u8
-#EXTINF:-1,ESPAÑA : BOING
-http://51.222.25.50:25461/Yg6eDwSTMR/bmgk4A8hbt/3220
 #EXTINF:-1 ,Esne TV
 http://160.20.164.171:8001/play/a04k/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Espn 1
-http://clubtv.link/dic1201/key4811/lista2.php?c=935
-#EXTINF:-1 group-title="TV PREMIUM",Espn 2
-http://clubtv.link/dic1201/key4811/lista2.php?c=936
 #EXTINF:-1 ,ESPN
 http://160.20.164.171:8001/play/a09c/index.m3u8
-#EXTINF:-1 ,ESPN  +
+#EXTINF:-1 ,ESPN HD
+http://160.20.164.171:8001/play/a00y/index.m3u8
+#EXTINF:-1 ,ESPN EXTRA
 http://160.20.164.171:8001/play/a00o/index.m3u8
 #EXTINF:-1 ,ESPN 2 HD
 http://160.20.164.171:8001/play/a010/index.m3u8
-#EXTINF:-1 ,ESPN 2 Latin
-http://160.20.164.171:8001/play/a09b/index.m3u8
 #EXTINF:-1 ,ESPN 3
 http://160.20.164.171:8001/play/a04l/index.m3u8
 #EXTINF:-1 ,ESPN 3 HD
 http://160.20.164.171:8001/play/a00z/index.m3u8
-#EXTINF:-1 ,ESPN 3 LT
-http://160.20.164.171:8001/play/a075/index.m3u8
 #EXTINF:-1 ,ESPN 4
 http://160.20.164.171:8001/play/a04r/index.m3u8
 #EXTINF:-1 ,ESPN 4  HD
 http://160.20.164.171:8001/play/a02d/index.m3u8
-#EXTINF:-1 ,ESPN CO
-http://160.20.164.171:8001/play/a04t/index.m3u8
-#EXTINF:-1 ,ESPN HD
-http://160.20.164.171:8001/play/a00y/index.m3u8
 #EXTINF:-1 ,EWTN
 http://160.20.164.171:8001/play/a01n/index.m3u8
 #EXTINF:-1 ,Film & arts HD
 http://160.20.164.171:8001/play/a01t/index.m3u8
-#EXTINF:-1 group-title="",Fox Sports 1
-http://clubtv.link/dic1201/key6715/lista2.php?c=947
-#EXTINF:-1 group-title="",Fox Sports 3 Latin America
-http://clubtv.link/dic1201/key6715/lista2.php?c=949
-#EXTINF:-1 group-title="",FX
-http://clubtv.link/dic1201/key6715/lista2.php?c=950
 #EXTINF:-1 ,Fox Sports 2
 http://160.20.164.171:8001/play/a055/index.m3u8
 #EXTINF:-1 ,FOX SPORTS 2 HD
@@ -204,43 +136,27 @@ http://160.20.164.171:8001/play/a00x/index.m3u8
 http://160.20.164.171:8001/play/a04b/index.m3u8
 #EXTINF:-1 ,FX HD
 http://160.20.164.171:8001/play/a01w/index.m3u8
-#EXTINF:-1,GALAVISION ATLANTA(W)
-http://51.222.25.50:25461/Yg6eDwSTMR/bmgk4A8hbt/1363
 #EXTINF:-1 ,GamaTV
 http://160.20.164.171:8001/play/a09j/index.m3u8
 #EXTINF:-1 group-title="" tvg-id="1093" tvg-name="" tvg-logo="https://i2.paste.pics/9872abc3f3190fc94f2d8b65f3f5cc38.png", Genios TV
 https://live.obslivestream.com/geniostvmux/index.m3u8?TecnoPlaylist
-#EXTINF:-1 ,GOL TV
-http://160.20.164.171:8001/play/a050/index.m3u8
 #EXTINF:-1 ,Golden
 http://160.20.164.171:8001/play/a02y/index.m3u8
-#EXTINF:-1 ,Golden Premiere 2 HD
-http://160.20.164.171:8001/play/a07f/index.m3u8
 #EXTINF:-1 ,Golden Premiere HD
 http://160.20.164.171:8001/play/a07e/index.m3u8
 #EXTINF:-1 ,Golf Channel HD
 http://160.20.164.171:8001/play/a020/index.m3u8
-#EXTINF:-1 ,GolTV HD
+#EXTINF:-1,Gol Tv 
 http://160.20.164.171:8001/play/a03x/index.m3u8
 #EXTINF:-1 ,H2
 http://160.20.164.171:8001/play/a03j/index.m3u8
-#EXTINF:-1 group-title="",HBO
-http://clubtv.link/dic1201/key6715/lista2.php?c=952
-#EXTINF:-1 group-title="",HBO +
-http://clubtv.link/dic1201/key6715/lista2.php?c=953
-#EXTINF:-1 group-title="",HBO 2
-http://clubtv.link/dic1201/key6715/lista2.php?c=954
 #EXTINF:-1 ,HBO
 http://160.20.164.171:8001/play/a046/index.m3u8
 #EXTINF:-1 ,HBO Family HD
 http://160.20.164.171:8001/play/a072/index.m3u8
 #EXTINF:-1 ,HBO HD
 http://160.20.164.171:8001/play/a06z/index.m3u8
-#EXTINF:-1 group-title="",HBO FAMILY
-http://clubtv.link/dic1201/key6715/lista2.php?c=957
-#EXTINF:-1 group-title="",HBO + Latinoamerica
-http://clubtv.link/dic1201/key6715/lista2.php?c=953
-#EXTINF:-1 ,HBO Plus HD
+#EXTINF:-1 ,HBO+ Plus
 http://160.20.164.171:8001/play/a071/index.m3u8
 #EXTINF:-1 ,HBO XTREME
 http://160.20.164.171:8001/play/a073/index.m3u8
@@ -248,84 +164,44 @@ http://160.20.164.171:8001/play/a073/index.m3u8
 http://160.20.164.171:8001/play/a070/index.m3u8
 #EXTINF:-1 ,History HD
 http://160.20.164.171:8001/play/a00n/index.m3u8
-#EXTINF:-1 group-title="",History 2 Latinoamérica
-http://clubtv.link/dic1201/key6715/lista2.php?c=958
 #EXTINF:-1 ,HOLA! TV HD
 http://160.20.164.171:8001/play/a01h/index.m3u8
-#EXTINF:-1 ,Home & Health HD
-http://160.20.164.171:8001/play/a01g/index.m3u8
 #EXTINF:-1 ,Home Garden Latino
 http://160.20.164.171:8001/play/a03q/index.m3u8
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-83xVlCKhy9M/YE1Kbugpn9I/AAAAAAABAmI/rTOM58rOAXoDAXekm3foJINYew4SZ4xcgCK8BGAsYHg/s512/2021-03-13.png", Jehova TV
 https://video.misistemareseller.com:443/jehovatelevision/jehovatelevision/playlist.m3u8
 #EXTINF:-1 group-title="" tvg-id="889" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-8b7QS_hJZdY/YLu9e1SGFLI/AAAAAAABCrk/aO5qeFONSokBmWT8vsROhr1uigX0FizcQCJEEGAsYHg/s512/2021-06-05.png", La Sabrosura TV
 https://tv.streaming-chile.com:1936/radiosabrosura/radiosabrosura/playlist.m3u8?TecnoPlaylist
-#EXTINF:-1,LA LIGA : M. LA LIGA
-http://51.222.25.50:25461/Yg6eDwSTMR/bmgk4A8hbt/3321
 #EXTINF:-1 tvg-logo="https://i2.paste.pics/1902290cf19fb0c3de2fa9fa9a03a396.png", Latino Kids TV
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
-#EXTINF:-1,LATINO | NICK 2
-http://51.222.25.50:25461/Yg6eDwSTMR/bmgk4A8hbt/585
-#EXTINF:-1 ,Latin America Sport
-http://160.20.164.171:8001/play/a02x/index.m3u8
 #EXTINF:-1 ,Latina HD
 http://160.20.164.171:8001/play/a03y/index.m3u8
 #EXTINF:-1 ,LIFE TIME
 http://160.20.164.171:8001/play/a00f/index.m3u8
-#EXTINF:-1,MASINGERZ 24/7
-http://51.222.25.50:25461/Yg6eDwSTMR/bmgk4A8hbt/2942
 #EXTINF:-1 ,MTV 00s 
 http://160.20.164.171:8001/play/a01k/index.m3u8
-#EXTINF:-1 ,MTV 80s
-http://160.20.164.171:8001/play/a00i/index.m3u8
 #EXTINF:-1 ,MTV 
 http://160.20.164.171:8001/play/a00p/index.m3u8
 #EXTINF:-1 ,MTV Hits
 http://160.20.164.171:8001/play/a00h/index.m3u8
 #EXTINF:-1 ,MTV SIM 
 http://160.20.164.171:8001/play/a01j/index.m3u8
-#EXTINF:-1 group-title="",Milenio TV
-http://clubtv.link/dic1201/key6715/lista2.php?c=971
-#EXTINF:-1 ,Multicinema
-http://160.20.164.171:8001/play/a039/index.m3u8
 #EXTINF:-1 ,Multimedios
 http://160.20.164.171:8001/play/a06x/index.m3u8
-#EXTINF:-1 ,Multipremier
-http://160.20.164.171:8001/play/a09k/index.m3u8
-#EXTINF:-1 ,Multipremier 
-http://160.20.164.171:8001/play/a021/index.m3u8
 #EXTINF:-1 ,Nat Geo 
 http://160.20.164.171:8001/play/a012/index.m3u8
 #EXTINF:-1 ,National Geographic
 http://160.20.164.171:8001/play/a00e/index.m3u8
 #EXTINF:-1 ,NEXT - PAN
 http://160.20.164.171:8001/play/a02q/index.m3u8
-#EXTINF:-1 group-title="",Nick Jr Latin America
-http://clubtv.link/dic1201/key6715/lista2.php?c=979
 #EXTINF:-1 ,Nick Jr
 http://160.20.164.171:8001/play/a04i/index.m3u8
-#EXTINF:-1 ,Nick Jr
-http://160.20.164.171:8001/play/a004/index.m3u8
-#EXTINF:-1 ,Nick SIM 
-http://160.20.164.171:8001/play/a01c/index.m3u8
-#EXTINF:-1 group-title="",Nickelodeon
-http://clubtv.link/dic1201/key6715/lista2.php?c=980
-#EXTINF:-1 ,Nickelodeon
+#EXTINF:-1 ,Nick
 http://160.20.164.171:8001/play/a023/index.m3u8
-#EXTINF:-1 group-title="", Novelas
-http://clubtv.link/dic1201/key6715/vix.php?c=445.frequency.stream/445&f=.m3u8
-#EXTINF:-1 group-title="", Novelas De Romance 
-http://clubtv.link/dic1201/key6715/vix.php?c=194.frequency.stream/194&f=.m3u8
-#EXTINF:-1 group-title="", Novelas En Familia
-http://clubtv.link/dic1201/key6715/vix.php?c=195.frequency.stream/195&f=.m3u8
 #EXTINF:-1 ,OROMARTV
 http://160.20.164.171:8001/play/a07t/index.m3u8
-#EXTINF:-1 group-title="",Once
-http://clubtv.link/dic1201/key6715/lista2.php?c=982
 #EXTINF:-1 ,Paramount 
 http://160.20.164.171:8001/play/a013/index.m3u8
-#EXTINF:-1 group-title="",Paramount Channel
-http://clubtv.link/dic1201/key6715/lista2.php?c=984
 #EXTINF:-1 ,Pasiones 
 http://160.20.164.171:8001/play/a017/index.m3u8
 #EXTINF:-1 group-title="" tvg-id="31" tvg-name="" tvg-logo="https://lh3.googleusercontent.com/-k9n3tedhqBs/XbC_-FblJSI/AAAAAAAArm4/pMPtuBhhdtoL_yFWs5dt23dHFTHHCv8hgCK8BGAsYHg/s0/2019-10-23.png", Portal FoxMix
@@ -342,28 +218,20 @@ https://d6op0qag07k4o.cloudfront.net/hls/rts.m3u8
 http://160.20.164.171:8001/play/a07r/index.m3u8
 #EXTINF:-1 ,Sembrador
 http://160.20.164.171:8001/play/a033/index.m3u8
-#EXTINF:-1 ,Sextreme
-http://160.20.164.171:8001/play/a028/index.m3u8
 #EXTINF:-1 ,Sinart 13
 http://160.20.164.171:8001/play/a06y/index.m3u8
 #EXTINF:-1 ,Sony
 http://160.20.164.171:8001/play/a048/index.m3u8
-#EXTINF:-1 ,SONY 
+#EXTINF:-1 ,SONY CHANNEL
 http://160.20.164.171:8001/play/a07a/index.m3u8
-#EXTINF:-1 ,Sony Movies 
+#EXTINF:-1 ,SONY MOVIES
 http://160.20.164.171:8001/play/a01x/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPACE" tvg-logo="http://2tmoon.xyz:80/images/cbAkOYPHJYCs3BO3bg4PQXzmZSD8TZXF0E90d1dO5KSx0a2qq_zkz2do7rEirBMBfHng3ALBUdMb9-2M897MPd-WxkScmOzRnLBoe709uRPgkjI9Xl3GINFV05gawWR9AuBMIEh6iNlgClDgDitZKw.png" group-title="",SPACE 
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/2105.ts
-#EXTINF:-1 group-title="",Space Mexico
-http://clubtv.link/dic1201/key6715/lista2.php?c=986
 #EXTINF:-1 ,STAR CHANNEL 
 http://160.20.164.171:8001/play/a078/index.m3u8
 #EXTINF:-1 ,Star TVE 
 http://160.20.164.171:8001/play/a01z/index.m3u8
-#EXTINF:-1 ,Studio Universal 
-http://160.20.164.171:8001/play/a01p/index.m3u8
-#EXTINF:-1 group-title="",Studio Universal
-http://clubtv.link/dic1201/key6715/lista2.php?c=987
 #EXTINF:-1 ,Sun Channel
 http://160.20.164.171:8001/play/a02v/index.m3u8
 #EXTINF:-1 ,TBN Enlace
@@ -384,7 +252,7 @@ http://160.20.164.171:8001/play/a01o/index.m3u8
 http://iptvtree.es:80/qtvbox/w6kqBNLz48yf/5728.ts
 #EXTINF:-1 ,Telecentro - RD
 http://160.20.164.171:8001/play/a02o/index.m3u8
-#EXTINF:-1 ,Telemundo HD
+#EXTINF:-1 ,TELEMUNDO INTERNACIONAL HD
 http://160.20.164.171:8001/play/a01v/index.m3u8
 #EXTINF:-1 ,Teleunion - RD
 http://160.20.164.171:8001/play/a02p/index.m3u8
@@ -392,14 +260,8 @@ http://160.20.164.171:8001/play/a02p/index.m3u8
 http://160.20.164.171:8001/play/a02n/index.m3u8
 #EXTINF:-1 ,Televida RD
 http://160.20.164.171:8001/play/a06w/index.m3u8
-#EXTINF:-1 tvg-logo="https://imgur.com/iO3mkwW.png" group-title="",Top Cine
-http://clubtv.link/dic1201/key6715/distro.php?c=top-cine-latam&f=.m3u8
 #EXTINF:-1 ,TLC
 http://160.20.164.171:8001/play/a077/index.m3u8
-#EXTINF:-1 group-title="",TNT América Latina
-http://clubtv.link/dic1201/key6715/lista2.php?c=992
-#EXTINF:-1 group-title="",TNT Series México
-http://clubtv.link/dic1201/key6715/lista2.php?c=993
 #EXTINF:-1 ,TNT HD
 http://160.20.164.171:8001/play/a01e/index.m3u8
 #EXTINF:-1 ,TNT Series HD
@@ -408,19 +270,13 @@ http://160.20.164.171:8001/play/a014/index.m3u8
 http://160.20.164.171:8001/play/a092/index.m3u8
 #EXTINF:-1 ,TVC
 http://160.20.164.171:8001/play/a07u/index.m3u8
-#EXTINF:-1 group-title="",TVC
-http://clubtv.link/dic1201/key6715/lista2.php?c=995
-#EXTINF:-1 ,TVChile
+#EXTINF:-1 ,TV CHILE
 http://160.20.164.171:8001/play/a03p/index.m3u8
-#EXTINF:-1 ,TyC
+#EXTINF:-1 ,TyC Sports
 http://160.20.164.171:8001/play/a051/index.m3u8
 #EXTINF:-1 ,UNIVERSAL PREMIERE 
 http://160.20.164.171:8001/play/a01m/index.m3u8
-#EXTINF:-1 group-title="T",Universal TV
-http://clubtv.link/dic1201/key6715/lista2.php?c=996
 #EXTINF:-1 ,Univision HD
 http://160.20.164.171:8001/play/a018/index.m3u8
 #EXTINF:-1 ,WARNER HD
 http://160.20.164.171:8001/play/a079/index.m3u8
-#EXTINF:-1 group-title="",Warner Channel
-http://clubtv.link/dic1201/key6715/lista2.php?c=999
