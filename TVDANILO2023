@@ -282,3 +282,904 @@ http://160.20.164.171:8001/play/a01m/index.m3u8
 http://160.20.164.171:8001/play/a018/index.m3u8
 #EXTINF:-1 ,WARNER HD
 http://160.20.164.171:8001/play/a079/index.m3u8
+
+
+
+
+#EXTM3U
+#EXTINF:-1, DESCARGA LISTAS M3U
+https://tecnomasterapp.tk/descarga/listasm3u.mp4
+#EXTINF:-1 tvg-id="A&E.MX" tvg-name="A&E" tvg-logo="" group-title="General",A&E
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/1
+#EXTINF:-1 tvg-id="AXN.MX" tvg-name="AXN" tvg-logo="" group-title="General",AXN
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/2
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="" group-title="General",Animal Planet
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/3
+#EXTINF:-1 tvg-id="" tvg-name="Az Corazon" tvg-logo="" group-title="General",Az Corazon
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/4
+#EXTINF:-1 tvg-id="" tvg-name="Az Mundo" tvg-logo="" group-title="General",Az Mundo
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/5
+#EXTINF:-1 tvg-id="" tvg-name="AMC" tvg-logo="" group-title="General",AMC
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/6
+#EXTINF:-1 tvg-id="" tvg-name="Antena 3 Internacional" tvg-logo="" group-title="General",Antena 3 Internacional
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/7
+#EXTINF:-1 tvg-id="" tvg-name="BBC World" tvg-logo="" group-title="General",BBC World
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/8
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="" group-title="General",Baby TV
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/9
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="" group-title="General",Bloomberg
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/10
+#EXTINF:-1 tvg-id="" tvg-name="CNN Espanol" tvg-logo="" group-title="General",CNN Espanol
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/11
+#EXTINF:-1 tvg-id="" tvg-name="CNN Internacional" tvg-logo="" group-title="General",CNN Internacional
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/12
+#EXTINF:-1 tvg-id="" tvg-name="Cable Noticias" tvg-logo="" group-title="General",Cable Noticias
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/13
+#EXTINF:-1 tvg-id="" tvg-name="Canal Claro" tvg-logo="" group-title="General",Canal Claro
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/14
+#EXTINF:-1 tvg-id="" tvg-name="Caracol" tvg-logo="" group-title="General",Caracol
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/16
+#EXTINF:-1 tvg-id="" tvg-name="Caracol Internacional" tvg-logo="" group-title="General",Caracol Internacional
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/17
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="" group-title="General",Cartoon Network
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/18
+#EXTINF:-1 tvg-id="" tvg-name="Cine Canal" tvg-logo="" group-title="General",Cine Canal
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/19
+#EXTINF:-1 tvg-id="" tvg-name="Cine Latino" tvg-logo="" group-title="General",Cine Latino
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/20
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Dinamita" tvg-logo="" group-title="General",Cinema Dinamita
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/21
+#EXTINF:-1 tvg-id="" tvg-name="Cinema Plus" tvg-logo="" group-title="General",Cinema Plus
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/22
+#EXTINF:-1 tvg-id="" tvg-name="City TV" tvg-logo="" group-title="General",City TV
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/23
+#EXTINF:-1 tvg-id="" tvg-name="Claro Cinema" tvg-logo="" group-title="General",Claro Cinema
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/24
+#EXTINF:-1 tvg-id="" tvg-name="Claro Music 2" tvg-logo="" group-title="General",Claro Music 2
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/26
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports" tvg-logo="" group-title="General",Claro Sports
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/27
+#EXTINF:-1 tvg-id="" tvg-name="Claro Sports Latinoamerica" tvg-logo="" group-title="General",Claro Sports Latinoamerica
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/28
+#EXTINF:-1 tvg-id="" tvg-name="Comedy Central" tvg-logo="" group-title="General",Comedy Central
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/29
+#EXTINF:-1 tvg-id="" tvg-name="DHE" tvg-logo="" group-title="General",DHE
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/31
+#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="" group-title="General",DW
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/32
+#EXTINF:-1 tvg-id="" tvg-name="Concert Channel" tvg-logo="" group-title="General",Concert Channel
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/30
+#EXTINF:-1 tvg-id="" tvg-name="DW America" tvg-logo="" group-title="General",DW America
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/33
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula Plus" tvg-logo="" group-title="General",De Pelicula Plus
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/34
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="" group-title="General",Discovery Channel
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/36
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Home and Health" tvg-logo="" group-title="General",Discovery Home and Health
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/37
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Kids" tvg-logo="" group-title="General",Discovery Kids
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/38
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Science" tvg-logo="" group-title="General",Discovery Science
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/39
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Turbo" tvg-logo="" group-title="General",Discovery Turbo
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/41
+#EXTINF:-1 tvg-id="" tvg-name="Discovery World" tvg-logo="" group-title="General",Discovery World
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/42
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Theater" tvg-logo="" group-title="General",Discovery Theater
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/40
+#EXTINF:-1 tvg-id="" tvg-name="Disney" tvg-logo="" group-title="General",Disney
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/43
+#EXTINF:-1 tvg-id="" tvg-name="Disney JR" tvg-logo="" group-title="General",Disney JR
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/44
+#EXTINF:-1 tvg-id="" tvg-name="Disney XD" tvg-logo="" group-title="General",Disney XD
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/45
+#EXTINF:-1 tvg-id="" tvg-name="E !" tvg-logo="" group-title="General",E !
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/46
+#EXTINF:-1 tvg-id="" tvg-name="El Gourmet" tvg-logo="" group-title="General",El Gourmet
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/47
+#EXTINF:-1 tvg-id="" tvg-name="Mas Chic" tvg-logo="" group-title="General",Mas Chic
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/48
+#EXTINF:-1 tvg-id="" tvg-name="MTV Hits" tvg-logo="" group-title="General",MTV Hits
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/49
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="" group-title="General",MTV
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/50
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="" group-title="General",Lifetime
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/51
+#EXTINF:-1 tvg-id="" tvg-name="Investigation Discovery" tvg-logo="" group-title="General",Investigation Discovery
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/52
+#EXTINF:-1 tvg-id="" tvg-name="I.Sat" tvg-logo="" group-title="General",I.Sat
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/53
+#EXTINF:-1 tvg-id="" tvg-name="Hola TV" tvg-logo="" group-title="General",Hola TV
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/54
+#EXTINF:-1 tvg-id="" tvg-name="H2" tvg-logo="" group-title="General",H2
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/55
+#EXTINF:-1 tvg-id="" tvg-name="History Channel" tvg-logo="" group-title="General",History Channel
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/56
+#EXTINF:-1 tvg-id="" tvg-name="HTV" tvg-logo="" group-title="General",HTV
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/57
+#EXTINF:-1 tvg-id="" tvg-name="HLN" tvg-logo="" group-title="General",HLN
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/58
+#EXTINF:-1 tvg-id="" tvg-name="HBO plus" tvg-logo="" group-title="General",HBO plus
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/59
+#EXTINF:-1 tvg-id="" tvg-name="HBO Subtitulado" tvg-logo="" group-title="General",HBO Subtitulado
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/60
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="" group-title="General",HBO Signature
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/61
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="" group-title="General",HBO Family
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/62
+#EXTINF:-1 tvg-id="" tvg-name="HBO 2" tvg-logo="" group-title="General",HBO 2
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/63
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="General",HBO
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/64
+#EXTINF:-1 tvg-id="" tvg-name="Golf Channel" tvg-logo="" group-title="General",Golf Channel
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/65
+#EXTINF:-1 tvg-id="" tvg-name="Golden Premium" tvg-logo="" group-title="General",Golden Premium
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/66
+#EXTINF:-1 tvg-id="" tvg-name="Golden" tvg-logo="" group-title="General",Golden
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/67
+#EXTINF:-1 tvg-id="" tvg-name="Glitz" tvg-logo="" group-title="General",Glitz
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/68
+#EXTINF:-1 tvg-id="" tvg-name="Fx Movie Mex" tvg-logo="" group-title="General",Fx Movie Mex
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/69
+#EXTINF:-1 tvg-id="" tvg-name="France 24" tvg-logo="" group-title="General",France 24
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/71
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 3 Sur" tvg-logo="" group-title="General",Fox Sports 3 Sur
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/72
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 MX" tvg-logo="" group-title="General",Fox Sports 2 MX
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/74
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 2 Sur" tvg-logo="" group-title="General",Fox Sports 2 Sur
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/75
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 1 Sur" tvg-logo="" group-title="General",Fox Sports 1 Sur
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/76
+#EXTINF:-1 tvg-id="FOXSPORTS.MX" tvg-name="Fox Sports 1 MX" tvg-logo="" group-title="General",Fox Sports 1 MX
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/77
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Series Subtitulado" tvg-logo="" group-title="General",Fox Premium Series Subtitulado
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/78
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Series" tvg-logo="" group-title="General",Fox Premium Series
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/79
+#EXTINF:-1 tvg-id="" tvg-name="Fox News" tvg-logo="" group-title="General",Fox News
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/80
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Movies" tvg-logo="" group-title="General",Fox Premium Movies
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/81
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life Mex" tvg-logo="" group-title="General",Fox Life Mex
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/82
+#EXTINF:-1 tvg-id="" tvg-name="Fox Life" tvg-logo="" group-title="General",Fox Life
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/83
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Family" tvg-logo="" group-title="General",Fox Premium Family
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/84
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Comedy" tvg-logo="" group-title="General",Fox Premium Comedy
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/85
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Classics" tvg-logo="" group-title="General",Fox Premium Classics
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/86
+#EXTINF:-1 tvg-id="" tvg-name="Fox Cinema Subtitulado" tvg-logo="" group-title="General",Fox Cinema Subtitulado
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/87
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Cinema" tvg-logo="" group-title="General",Fox Premium Cinema
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/88
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Action MX" tvg-logo="" group-title="General",Fox Premium Action MX
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/89
+#EXTINF:-1 tvg-id="" tvg-name="Fox Premium Action" tvg-logo="" group-title="General",Fox Premium Action
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/90
+#EXTINF:-1 tvg-id="" tvg-name="Fox" tvg-logo="" group-title="General",Fox
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/91
+#EXTINF:-1 tvg-id="" tvg-name="FX" tvg-logo="" group-title="General",FX
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/92
+#EXTINF:-1 tvg-id="" tvg-name="Euro Channel" tvg-logo="" group-title="General",Euro Channel
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/93
+#EXTINF:-1 tvg-id="" tvg-name="Espn Plus Sur" tvg-logo="" group-title="General",Espn Plus Sur
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/94
+#EXTINF:-1 tvg-id="" tvg-name="Espn 3 Sur" tvg-logo="" group-title="General",Espn 3 Sur
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/95
+#EXTINF:-1 tvg-id="" tvg-name="Espn 2 Sur" tvg-logo="" group-title="General",Espn 2 Sur
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/96
+#EXTINF:-1 tvg-id="" tvg-name="Espn 1 Sur" tvg-logo="" group-title="General",Espn 1 Sur
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/97
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports" tvg-logo="" group-title="General",Win Sports
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/98
+#EXTINF:-1 tvg-id="" tvg-name="Warner Channel" tvg-logo="" group-title="General",Warner Channel
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/99
+#EXTINF:-1 tvg-id="" tvg-name="Vh1 Classic" tvg-logo="" group-title="General",Vh1 Classic
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/100
+#EXTINF:-1 tvg-id="" tvg-name="Vh1" tvg-logo="" group-title="General",Vh1
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/101
+#EXTINF:-1 tvg-id="" tvg-name="Univision" tvg-logo="" group-title="General",Univision
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/102
+#EXTINF:-1 tvg-id="" tvg-name="Universal Channel" tvg-logo="" group-title="General",Universal Channel
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/103
+#EXTINF:-1 tvg-id="" tvg-name="Unicable" tvg-logo="" group-title="General",Unicable
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/104
+#EXTINF:-1 tvg-id="" tvg-name="Tru TV" tvg-logo="" group-title="General",Tru TV
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/105
+#EXTINF:-1 tvg-id="" tvg-name="Tve" tvg-logo="" group-title="General",Tve
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/106
+#EXTINF:-1 tvg-id="" tvg-name="Tooncast" tvg-logo="" group-title="General",Tooncast
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/107
+#EXTINF:-1 tvg-id="" tvg-name="Telemundo" tvg-logo="" group-title="General",Telemundo
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/108
+#EXTINF:-1 tvg-id="" tvg-name="TNT Series" tvg-logo="" group-title="General",TNT Series
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/109
+#EXTINF:-1 tvg-id="" tvg-name="TNT" tvg-logo="" group-title="General",TNT
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/110
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="" group-title="General",TLC
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/111
+#EXTINF:-1 tvg-id="" tvg-name="TCM" tvg-logo="" group-title="General",TCM
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/112
+#EXTINF:-1 tvg-id="" tvg-name="TBS" tvg-logo="" group-title="General",TBS
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/113
+#EXTINF:-1 tvg-id="" tvg-name="Sundance Channel" tvg-logo="" group-title="General",Sundance Channel
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/114
+#EXTINF:-1 tvg-id="" tvg-name="Studio Universal" tvg-logo="" group-title="General",Studio Universal
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/115
+#EXTINF:-1 tvg-id="" tvg-name="Space" tvg-logo="" group-title="General",Space
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/116
+#EXTINF:-1 tvg-id="" tvg-name="Sony" tvg-logo="" group-title="General",Sony
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/117
+#EXTINF:-1 tvg-id="" tvg-name="RCN Telenovelas" tvg-logo="" group-title="General",RCN Telenovelas
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/118
+#EXTINF:-1 tvg-id="" tvg-name="Pasiones" tvg-logo="" group-title="General",Pasiones
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/119
+#EXTINF:-1 tvg-id="" tvg-name="Paramount Channel" tvg-logo="" group-title="General",Paramount Channel
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/120
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="" group-title="General",Nickelodeon
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/121
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="" group-title="General",Nick Jr
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/122
+#EXTINF:-1 tvg-id="" tvg-name="Nick 2" tvg-logo="" group-title="General",Nick 2
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/123
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="" group-title="General",Nat Geo Wild
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/124
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Mex" tvg-logo="" group-title="General",Nat Geo Mex
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/125
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids Mex" tvg-logo="" group-title="General",Nat Geo Kids Mex
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/126
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Kids" tvg-logo="" group-title="General",Nat Geo Kids
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/127
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic Channel" tvg-logo="" group-title="General",National Geographic Channel
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/128
+#EXTINF:-1 tvg-id="" tvg-name="Multipremier" tvg-logo="" group-title="General",Multipremier
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/129
+#EXTINF:-1 tvg-id="" tvg-name="Mtv Live" tvg-logo="" group-title="General",Mtv Live
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/130
+#EXTINF:-1 tvg-id="" tvg-name="HBO Pop" tvg-logo="" group-title="General",HBO Pop
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/131
+#EXTINF:-1 tvg-id="" tvg-name="HBO Xtreme" tvg-logo="" group-title="General",HBO Xtreme
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/132
+#EXTINF:-1 tvg-id="" tvg-name="HBO Mundi" tvg-logo="" group-title="General",HBO Mundi
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/133
+#EXTINF:-1 tvg-id="" tvg-name="MX | Azteca 7" tvg-logo="-" group-title="General",MX | Azteca 7
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/134
+#EXTINF:-1 tvg-id="" tvg-name="MX | Azteca Uno" tvg-logo="-" group-title="General",MX | Azteca Uno
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/135
+#EXTINF:-1 tvg-id="" tvg-name="MX | ADN 40" tvg-logo="-" group-title="General",MX | ADN 40
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/136
+#EXTINF:-1 tvg-id="" tvg-name="MX | Az Clic" tvg-logo="-" group-title="General",MX | Az Clic
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/139
+#EXTINF:-1 tvg-id="" tvg-name="MX | Az Cinema" tvg-logo="-" group-title="General",MX | Az Cinema
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/140
+#EXTINF:-1 tvg-id="" tvg-name="MX | A3 Series" tvg-logo="-" group-title="General",MX | A3 Series
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/141
+#EXTINF:-1 tvg-id="" tvg-name="MX | Antena 3" tvg-logo="-" group-title="General",MX | Antena 3
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/142
+#EXTINF:-1 tvg-id="" tvg-name="MX | Aym Sports" tvg-logo="-" group-title="General",MX | Aym Sports
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/143
+#EXTINF:-1 tvg-id="" tvg-name="MX | Canal 5" tvg-logo="-" group-title="General",MX | Canal 5
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/144
+#EXTINF:-1 tvg-id="" tvg-name="MX | Las Estrellas" tvg-logo="-" group-title="General",MX | Las Estrellas
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/145
+#EXTINF:-1 tvg-id="" tvg-name="MX | Galatv" tvg-logo="-" group-title="General",MX | Galatv
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/146
+#EXTINF:-1 tvg-id="" tvg-name="MX | Foro TV" tvg-logo="-" group-title="General",MX | Foro TV
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/147
+#EXTINF:-1 tvg-id="" tvg-name="MX | Europa Europa" tvg-logo="-" group-title="General",MX | Europa Europa
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/148
+#EXTINF:-1 tvg-id="" tvg-name="MX | Distrito Comedia" tvg-logo="-" group-title="General",MX | Distrito Comedia
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/149
+#EXTINF:-1 tvg-id="" tvg-name="MX | Multimedios" tvg-logo="-" group-title="General",MX | Multimedios
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/150
+#EXTINF:-1 tvg-id="" tvg-name="MX | Televisa MTY" tvg-logo="-" group-title="General",MX | Televisa MTY
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/151
+#EXTINF:-1 tvg-id="" tvg-name="MX | Garage TV" tvg-logo="-" group-title="General",MX | Garage TV
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/152
+#EXTINF:-1 tvg-id="" tvg-name="MX | Congreso de la Unión" tvg-logo="-" group-title="General",MX | Congreso de la Unión
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/153
+#EXTINF:-1 tvg-id="" tvg-name="MX | Imagen TV" tvg-logo="-" group-title="General",MX | Imagen TV
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/154
+#EXTINF:-1 tvg-id="" tvg-name="MX | Latin American Sports" tvg-logo="-" group-title="General",MX | Latin American Sports
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/155
+#EXTINF:-1 tvg-id="" tvg-name="MX | Teleritmo" tvg-logo="-" group-title="General",MX | Teleritmo
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/156
+#EXTINF:-1 tvg-id="" tvg-name="MX | Milenio TV" tvg-logo="-" group-title="General",MX | Milenio TV
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/157
+#EXTINF:-1 tvg-id="" tvg-name="MX | Espn Plus" tvg-logo="-" group-title="General",MX | Espn Plus
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/160
+#EXTINF:-1 tvg-id="" tvg-name="MX | Espn" tvg-logo="-" group-title="General",MX | Espn
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/161
+#EXTINF:-1 tvg-id="" tvg-name="MX | Espn 2" tvg-logo="-" group-title="General",MX | Espn 2
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/162
+#EXTINF:-1 tvg-id="" tvg-name="MX | Fox Sports 3" tvg-logo="-" group-title="General",MX | Fox Sports 3
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/165
+#EXTINF:-1 tvg-id="" tvg-name="MX | RT Noticias" tvg-logo="-" group-title="General",MX | RT Noticias
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/166
+#EXTINF:-1 tvg-id="" tvg-name="MX | Espn 3" tvg-logo="-" group-title="General",MX | Espn 3
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/167
+#EXTINF:-1 tvg-id="" tvg-name="MX | RT en Espanol" tvg-logo="-" group-title="General",MX | RT en Espanol
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/168
+#EXTINF:-1 tvg-id="" tvg-name="MX | Tl Novelas" tvg-logo="-" group-title="General",MX | Tl Novelas
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/169
+#EXTINF:-1 tvg-id="" tvg-name="MX | A Plus" tvg-logo="-" group-title="General",MX | A Plus
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/170
+#EXTINF:-1 tvg-id="" tvg-name="MX | Cinemax" tvg-logo="-" group-title="General",MX | Cinemax
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/171
+#EXTINF:-1 tvg-id="" tvg-name="MX | Nicktoons" tvg-logo="-" group-title="General",MX | Nicktoons
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/172
+#EXTINF:-1 tvg-id="" tvg-name="MX | Bandamax" tvg-logo="-" group-title="General",MX | Bandamax
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/173
+#EXTINF:-1 tvg-id="" tvg-name="MX | Food Network" tvg-logo="-" group-title="General",MX | Food Network
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/174
+#EXTINF:-1 tvg-id="" tvg-name="MX | Boomerang" tvg-logo="-" group-title="General",MX | Boomerang
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/176
+#EXTINF:-1 tvg-id="" tvg-name="MX | Ingenio TV" tvg-logo="-" group-title="General",MX | Ingenio TV
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/177
+#EXTINF:-1 tvg-id="" tvg-name="MX | Ritmoson" tvg-logo="-" group-title="General",MX | Ritmoson
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/178
+#EXTINF:-1 tvg-id="" tvg-name="MX | Telehit" tvg-logo="-" group-title="General",MX | Telehit
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/179
+#EXTINF:-1 tvg-id="" tvg-name="MX | TVC" tvg-logo="-" group-title="General",MX | TVC
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/180
+#EXTINF:-1 tvg-id="" tvg-name="MX | TVC Deportes" tvg-logo="-" group-title="General",MX | TVC Deportes
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/181
+#EXTINF:-1 tvg-id="" tvg-name="MX | Telefórmula" tvg-logo="-" group-title="General",MX | Telefórmula
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/182
+#EXTINF:-1 tvg-id="" tvg-name="MX | Golden" tvg-logo="-" group-title="General",MX | Golden
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/183
+#EXTINF:-1 tvg-id="" tvg-name="MX | Golden Edge" tvg-logo="-" group-title="General",MX | Golden Edge
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/184
+#EXTINF:-1 tvg-id="" tvg-name="Bein Sports" tvg-logo="-" group-title="General",Bein Sports
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/185
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports Plus" tvg-logo="-" group-title="General",Directv Sports Plus
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/186
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports" tvg-logo="-" group-title="General",Directv Sports
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/187
+#EXTINF:-1 tvg-id="" tvg-name="Directv Sports 2" tvg-logo="-" group-title="General",Directv Sports 2
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/188
+#EXTINF:-1 tvg-id="" tvg-name="Univision UDN" tvg-logo="-" group-title="General",Univision UDN
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/189
+#EXTINF:-1 tvg-id="" tvg-name="Univision TDN" tvg-logo="-" group-title="General",Univision TDN
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/190
+#EXTINF:-1 tvg-id="" tvg-name="PE | TV Peru" tvg-logo="-" group-title="General",PE | TV Peru
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/191
+#EXTINF:-1 tvg-id="" tvg-name="PE | Peru Magico" tvg-logo="-" group-title="General",PE | Peru Magico
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/192
+#EXTINF:-1 tvg-id="" tvg-name="PE | Panamericana" tvg-logo="-" group-title="General",PE | Panamericana
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/193
+#EXTINF:-1 tvg-id="" tvg-name="PE | Movistar Deportes" tvg-logo="-" group-title="General",PE | Movistar Deportes
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/194
+#EXTINF:-1 tvg-id="" tvg-name="PE | Gol Peru" tvg-logo="-" group-title="General",PE | Gol Peru
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/195
+#EXTINF:-1 tvg-id="" tvg-name="COL | Trece" tvg-logo="-" group-title="General",COL | Trece
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/198
+#EXTINF:-1 tvg-id="" tvg-name="COL | RCN Internacional" tvg-logo="-" group-title="General",COL | RCN Internacional
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/200
+#EXTINF:-1 tvg-id="" tvg-name="COL | RCN" tvg-logo="-" group-title="General",COL | RCN
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/201
+#EXTINF:-1 tvg-id="" tvg-name="COL | Caracol 2" tvg-logo="-" group-title="General",COL | Caracol 2
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/204
+#EXTINF:-1 tvg-id="" tvg-name="COL | Caracol" tvg-logo="-" group-title="General",COL | Caracol
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/205
+#EXTINF:-1 tvg-id="" tvg-name="CL | Fox Sports" tvg-logo="-" group-title="General",CL | Fox Sports
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/211
+#EXTINF:-1 tvg-id="" tvg-name="CL | Chilevision" tvg-logo="-" group-title="General",CL | Chilevision
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/212
+#EXTINF:-1 tvg-id="" tvg-name="CL | CDO Premium" tvg-logo="-" group-title="General",CL | CDO Premium
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/213
+#EXTINF:-1 tvg-id="" tvg-name="CL | CDO Basico" tvg-logo="-" group-title="General",CL | CDO Basico
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/214
+#EXTINF:-1 tvg-id="" tvg-name="CL | CDF Premium" tvg-logo="-" group-title="General",CL | CDF Premium
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/215
+#EXTINF:-1 tvg-id="" tvg-name="CL | CDF Basico" tvg-logo="-" group-title="General",CL | CDF Basico
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/216
+#EXTINF:-1 tvg-id="" tvg-name="CL | CDF" tvg-logo="-" group-title="General",CL | CDF
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/217
+#EXTINF:-1 tvg-id="" tvg-name="AR | TNT Sports" tvg-logo="-" group-title="General",AR | TNT Sports
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/219
+#EXTINF:-1 tvg-id="" tvg-name="Wobi" tvg-logo="" group-title="General",Wobi
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/337
+#EXTINF:-1 tvg-id="" tvg-name="VH1 HD" tvg-logo="" group-title="General",VH1 HD
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/336
+#EXTINF:-1 tvg-id="" tvg-name="Start TVE" tvg-logo="" group-title="General",Start TVE
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/335
+#EXTINF:-1 tvg-id="" tvg-name="Golden Plus" tvg-logo="" group-title="General",Golden Plus
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/327
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Civilization" tvg-logo="" group-title="General",Discovery Civilization
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/325
+#EXTINF:-1 tvg-id="" tvg-name="De Pelicula" tvg-logo="" group-title="General",De Pelicula
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/324
+#EXTINF:-1 tvg-id="" tvg-name="Gol TV Internacional" tvg-logo="" group-title="General",Gol TV Internacional
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/338
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports 1" tvg-logo="" group-title="General",Tigo Sports 1
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/339
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports py" tvg-logo="" group-title="General",Tigo Sports py
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/340
+#EXTINF:-1 tvg-id="" tvg-name="Tigo Sports 3" tvg-logo="" group-title="General",Tigo Sports 3
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/341
+#EXTINF:-1 tvg-id="" tvg-name="Bein sports ñ T" tvg-logo="" group-title="General",Bein sports ñ T
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/343
+#EXTINF:-1 tvg-id="" tvg-name="MLB Network" tvg-logo="" group-title="General",MLB Network
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/349
+#EXTINF:-1 tvg-id="" tvg-name="Motorsports TV" tvg-logo="" group-title="General",Motorsports TV
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/350
+#EXTINF:-1 tvg-id="" tvg-name="UFC TV" tvg-logo="" group-title="General",UFC TV
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/353
+#EXTINF:-1 tvg-id="" tvg-name="Bitme" tvg-logo="" group-title="General",Bitme
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/354
+#EXTINF:-1 tvg-id="" tvg-name="Locomotion" tvg-logo="" group-title="General",Locomotion
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/355
+#EXTINF:-1 tvg-id="" tvg-name="movistar liga de Campeones" tvg-logo="" group-title="General",movistar liga de Campeones
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/357
+#EXTINF:-1 tvg-id="" tvg-name="nueve mx" tvg-logo="" group-title="General",nueve mx
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/356
+#EXTINF:-1 tvg-id="" tvg-name="ISAT" tvg-logo="" group-title="General",ISAT
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/369
+#EXTINF:-1 tvg-id="" tvg-name="Film&Arts" tvg-logo="" group-title="General",Film&Arts
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/370
+#EXTINF:-1 tvg-id="" tvg-name="Syfy" tvg-logo="" group-title="General",Syfy
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/371
+#EXTINF:-1 tvg-id="" tvg-name="Ultra Tainment" tvg-logo="" group-title="General",Ultra Tainment
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/373
+#EXTINF:-1 tvg-id="" tvg-name="Win Sports+" tvg-logo="" group-title="General",Win Sports+
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/374
+#EXTINF:-1 tvg-id="" tvg-name="MX | EDUCA canal 1" tvg-logo="" group-title="General",MX | EDUCA canal 1
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/376
+#EXTINF:-1 tvg-id="" tvg-name="MX | EDUCA canal 2" tvg-logo="" group-title="General",MX | EDUCA canal 2
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/377
+#EXTINF:-1 tvg-id="" tvg-name="MX | EDUCA canal 3" tvg-logo="" group-title="General",MX | EDUCA canal 3
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/378
+#EXTINF:-1 tvg-id="" tvg-name="Canal Once" tvg-logo="" group-title="General",Canal Once
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/380
+#EXTINF:-1 tvg-id="" tvg-name="Once Niños" tvg-logo="" group-title="General",Once Niños
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/381
+#EXTINF:-1 tvg-id="" tvg-name="afizzionados" tvg-logo="" group-title="General",afizzionados
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/382
+#EXTINF:-1 tvg-id="" tvg-name="Fox Deportes" tvg-logo="" group-title="General",Fox Deportes
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/384
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="" group-title="General",HGTV
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/385
+#EXTINF:-1 tvg-id="" tvg-name="vtv" tvg-logo="" group-title="General",vtv
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/409
+#EXTINF:-1 tvg-id="" tvg-name="vtv plus" tvg-logo="" group-title="General",vtv plus
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/410
+#EXTINF:-1 tvg-id="" tvg-name="Canal Del Futbol |EC|" tvg-logo="" group-title="General",Canal Del Futbol |EC|
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/411
+#EXTINF:-1 tvg-id="" tvg-name="FUTV" tvg-logo="" group-title="General",FUTV
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/400
+#EXTINF:-1 tvg-id="" tvg-name="Lazy Town" tvg-logo="" group-title="24/7",Lazy Town
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/235
+#EXTINF:-1 tvg-id="" tvg-name="Barnie y sus amigos" tvg-logo="" group-title="24/7",Barnie y sus amigos
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/236
+#EXTINF:-1 tvg-id="" tvg-name="Dora la exploradora" tvg-logo="" group-title="24/7",Dora la exploradora
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/237
+#EXTINF:-1 tvg-id="" tvg-name="PJ Masks" tvg-logo="" group-title="24/7",PJ Masks
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/238
+#EXTINF:-1 tvg-id="" tvg-name="caillou" tvg-logo="" group-title="24/7",caillou
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/239
+#EXTINF:-1 tvg-id="" tvg-name="Jorge el Curioso" tvg-logo="" group-title="24/7",Jorge el Curioso
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/240
+#EXTINF:-1 tvg-id="" tvg-name="peppa pig" tvg-logo="" group-title="24/7",peppa pig
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/241
+#EXTINF:-1 tvg-id="" tvg-name="happy tree friends" tvg-logo="" group-title="24/7",happy tree friends
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/242
+#EXTINF:-1 tvg-id="" tvg-name="Los picapiedras" tvg-logo="" group-title="24/7",Los picapiedras
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/243
+#EXTINF:-1 tvg-id="" tvg-name="Le temes a la oscuridad" tvg-logo="" group-title="24/7",Le temes a la oscuridad
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/244
+#EXTINF:-1 tvg-id="" tvg-name="Pantera Rosa 80s" tvg-logo="" group-title="24/7",Pantera Rosa 80s
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/245
+#EXTINF:-1 tvg-id="" tvg-name="Correcaminos" tvg-logo="" group-title="24/7",Correcaminos
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/246
+#EXTINF:-1 tvg-id="" tvg-name="Power Rangers" tvg-logo="" group-title="24/7",Power Rangers
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/247
+#EXTINF:-1 tvg-id="" tvg-name="Cuentos Hermanos Grimm" tvg-logo="" group-title="24/7",Cuentos Hermanos Grimm
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/248
+#EXTINF:-1 tvg-id="" tvg-name="Robotech" tvg-logo="" group-title="24/7",Robotech
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/249
+#EXTINF:-1 tvg-id="" tvg-name="Estrenos 2018" tvg-logo="" group-title="24/7",Estrenos 2018
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/250
+#EXTINF:-1 tvg-id="" tvg-name="El Chapulin Colorado" tvg-logo="" group-title="24/7",El Chapulin Colorado
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/251
+#EXTINF:-1 tvg-id="" tvg-name="Death Note" tvg-logo="" group-title="24/7",Death Note
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/252
+#EXTINF:-1 tvg-id="" tvg-name="CSI Miami" tvg-logo="" group-title="24/7",CSI Miami
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/253
+#EXTINF:-1 tvg-id="" tvg-name="Alf" tvg-logo="" group-title="24/7",Alf
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/254
+#EXTINF:-1 tvg-id="" tvg-name="X-men 90s" tvg-logo="" group-title="24/7",X-men 90s
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/255
+#EXTINF:-1 tvg-id="" tvg-name="Vete a la Versh" tvg-logo="" group-title="24/7",Vete a la Versh
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/256
+#EXTINF:-1 tvg-id="" tvg-name="The Walking Dead" tvg-logo="" group-title="24/7",The Walking Dead
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/257
+#EXTINF:-1 tvg-id="" tvg-name="Super campeones" tvg-logo="" group-title="24/7",Super campeones
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/258
+#EXTINF:-1 tvg-id="" tvg-name="strangerthings" tvg-logo="" group-title="24/7",strangerthings
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/259
+#EXTINF:-1 tvg-id="" tvg-name="Spiderman 80s" tvg-logo="" group-title="24/7",Spiderman 80s
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/260
+#EXTINF:-1 tvg-id="" tvg-name="Sounth Park" tvg-logo="" group-title="24/7",Sounth Park
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/261
+#EXTINF:-1 tvg-id="" tvg-name="Smallville" tvg-logo="" group-title="24/7",Smallville
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/262
+#EXTINF:-1 tvg-id="" tvg-name="Shera" tvg-logo="" group-title="24/7",Shera
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/263
+#EXTINF:-1 tvg-id="" tvg-name="Señor de los cielos" tvg-logo="" group-title="24/7",Señor de los cielos
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/264
+#EXTINF:-1 tvg-id="" tvg-name="Sailormoon" tvg-logo="" group-title="24/7",Sailormoon
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/265
+#EXTINF:-1 tvg-id="" tvg-name="Pokemon" tvg-logo="" group-title="24/7",Pokemon
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/266
+#EXTINF:-1 tvg-id="" tvg-name="Pinky y Cerebro" tvg-logo="" group-title="24/7",Pinky y Cerebro
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/267
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Terror" tvg-logo="" group-title="24/7",Peliculas Terror
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/268
+#EXTINF:-1 tvg-id="" tvg-name="Pablo Escobar" tvg-logo="" group-title="24/7",Pablo Escobar
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/269
+#EXTINF:-1 tvg-id="" tvg-name="Naruto" tvg-logo="" group-title="24/7",Naruto
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/270
+#EXTINF:-1 tvg-id="" tvg-name="Mazinger Z" tvg-logo="" group-title="24/7",Mazinger Z
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/271
+#EXTINF:-1 tvg-id="" tvg-name="Malcolm el de enmedio" tvg-logo="" group-title="24/7",Malcolm el de enmedio
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/272
+#EXTINF:-1 tvg-id="" tvg-name="Luis Miguel" tvg-logo="" group-title="24/7",Luis Miguel
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/273
+#EXTINF:-1 tvg-id="" tvg-name="Los Thundercats" tvg-logo="" group-title="24/7",Los Thundercats
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/275
+#EXTINF:-1 tvg-id="" tvg-name="Los Simpsons" tvg-logo="" group-title="24/7",Los Simpsons
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/276
+#EXTINF:-1 tvg-id="" tvg-name="La Rosa de Guadalupe" tvg-logo="" group-title="24/7",La Rosa de Guadalupe
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/277
+#EXTINF:-1 tvg-id="" tvg-name="Heman" tvg-logo="" group-title="24/7",Heman
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/278
+#EXTINF:-1 tvg-id="" tvg-name="Game Of Throne" tvg-logo="" group-title="24/7",Game Of Throne
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/279
+#EXTINF:-1 tvg-id="" tvg-name="Futurama" tvg-logo="" group-title="24/7",Futurama
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/280
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Z" tvg-logo="" group-title="24/7",Dragon Ball Z
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/281
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball Super" tvg-logo="" group-title="24/7",Dragon Ball Super
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/282
+#EXTINF:-1 tvg-id="" tvg-name="Dragon Ball GT" tvg-logo="" group-title="24/7",Dragon Ball GT
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/283
+#EXTINF:-1 tvg-id="" tvg-name="Dragon ball" tvg-logo="" group-title="24/7",Dragon ball
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/284
+#EXTINF:-1 tvg-id="" tvg-name="Dinosaurios" tvg-logo="" group-title="24/7",Dinosaurios
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/285
+#EXTINF:-1 tvg-id="" tvg-name="Coraje el perro cobarde" tvg-logo="" group-title="24/7",Coraje el perro cobarde
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/286
+#EXTINF:-1 tvg-id="" tvg-name="Años Maravillosos" tvg-logo="" group-title="24/7",Años Maravillosos
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/287
+#EXTINF:-1 tvg-id="" tvg-name="La casa de papel" tvg-logo="" group-title="24/7",La casa de papel
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/288
+#EXTINF:-1 tvg-id="" tvg-name="El chema" tvg-logo="" group-title="24/7",El chema
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/289
+#EXTINF:-1 tvg-id="" tvg-name="El chavo" tvg-logo="" group-title="24/7",El chavo
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/290
+#EXTINF:-1 tvg-id="" tvg-name="caballerosdel zodiaco" tvg-logo="" group-title="24/7",caballerosdel zodiaco
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/291
+#EXTINF:-1 tvg-id="" tvg-name="Breaking bad" tvg-logo="https://i.blogs.es/16e585/breaking-bad/450_1000.jpg" group-title="24/7",Breaking bad
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/292
+#EXTINF:-1 tvg-id="" tvg-name="Bob Esponja 24/7" tvg-logo="https://cdn.revistagq.com/uploads/images/thumbs/es/gq/4/s/2018/19/bob_esponja_9564_800x576.png" group-title="24/7",Bob Esponja 24/7
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/293
+#EXTINF:-1 tvg-id="" tvg-name="El mago enmascarado" tvg-logo="" group-title="24/7",El mago enmascarado
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/401
+#EXTINF:-1 tvg-id="" tvg-name="The Mandalorian" tvg-logo="" group-title="24/7",The Mandalorian
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/402
+#EXTINF:-1 tvg-id="" tvg-name="Peliculas Infantiles" tvg-logo="" group-title="24/7",Peliculas Infantiles
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/403
+#EXTINF:-1 tvg-id="" tvg-name="Las chicas Superpoderosas" tvg-logo="" group-title="24/7",Las chicas Superpoderosas
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/404
+#EXTINF:-1 tvg-id="" tvg-name="Laboratorio de Dexter" tvg-logo="" group-title="24/7",Laboratorio de Dexter
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/405
+#EXTINF:-1 tvg-id="" tvg-name="Los Aventureros del Aire" tvg-logo="" group-title="24/7",Los Aventureros del Aire
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/406
+#EXTINF:-1 tvg-id="" tvg-name="Patoaventuras" tvg-logo="" group-title="24/7",Patoaventuras
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/407
+#EXTINF:-1 tvg-id="" tvg-name="BEIN LA LIGA" tvg-logo="" group-title="Españoles",BEIN LA LIGA
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/313
+#EXTINF:-1 tvg-id="" tvg-name="LA LIGA TV" tvg-logo="" group-title="Españoles",LA LIGA TV
+#EXTVLCOPT:http-user-agent=tuplayer
+https://s1.dominiopersonal.xyz:2083/tuplayer/vKyQd0MYif/314
